@@ -1,4 +1,12 @@
 ﻿using System;
+using System.ComponentModel;
+using System.Threading.Tasks;
+using System.Windows.Input;
+using Xamarin.Forms;
+using System.Collections.Generic;
+using System.Runtime.CompilerServices;
+using System.Collections.ObjectModel;
+
 namespace UNFI.ViewModels
 {
     public class FeedDetailsViewModel : BaseViewModel
