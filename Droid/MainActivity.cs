@@ -8,6 +8,8 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
+using ImageCircle.Forms.Plugin.Droid;
+
 namespace UNFI.Droid
 {
     [Activity(Label = "UNFI.Droid", Icon = "@drawable/icon", Theme = "@style/MyTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
@@ -21,6 +23,8 @@ namespace UNFI.Droid
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
+
+            ImageCircleRenderer.Init();
 
             LoadApplication(new App());
         }
