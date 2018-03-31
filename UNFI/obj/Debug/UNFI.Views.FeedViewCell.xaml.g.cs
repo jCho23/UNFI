@@ -12,7 +12,7 @@ namespace UNFI.Views {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/june/Projects/UNFI/UNFI/Views/FeedViewCell.xaml")]
-    public partial class FeedViewCell : global::Xamarin.Forms.ContentPage {
+    public partial class FeedViewCell : global::Xamarin.Forms.ViewCell {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
