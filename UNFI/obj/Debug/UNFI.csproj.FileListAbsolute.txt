@@ -20,3 +20,4 @@
 /Users/june/Projects/UNFI/UNFI/bin/Debug/ImageCircle.Forms.Plugin.Abstractions.dll
 /Users/june/Projects/UNFI/UNFI/bin/Debug/ImageCircle.Forms.Plugin.Abstractions.pdb
 /Users/june/Projects/UNFI/UNFI/bin/Debug/ImageCircle.Forms.Plugin.Abstractions.xml
+/Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.Pages.FeedDetailsPage.xaml.g.cs
