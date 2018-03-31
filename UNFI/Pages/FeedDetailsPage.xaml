@@ -1,5 +1,96 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="UNFI.Pages.FeedDetailsPage">
-    <ContentPage.Content>
-    </ContentPage.Content>
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="UNFI.Pages.FeedDetailsPage">
+
+    <Grid 
+        Margin="0,0,0,20"
+        RowSpacing="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+    
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <ic:CircleImage
+            Grid.Row="0" Grid.Column="0" 
+            BorderThickness="1"
+            BorderColor="Gray"
+            Margin="10,10,0,0"
+            Aspect="AspectFill"
+            Source="{Binding PostUserProfileUrl}"
+            HeightRequest="100" WidthRequest="100"/>
+
+        <Label
+            Grid.Row="0" Grid.Column="1"
+            FontSize="20"
+            Margin="7,0,0,0"
+            Text="{Binding PostUserPostText}" 
+            HorizontalOptions="Center" VerticalOptions="Center"/>
+        
+        <Label
+            Grid.Row="1" Grid.Column = "0"
+            Margin="10,5,0,0"
+            TextColor="#f6b93b"
+            FontSize="14"
+            Text="{Binding PostUserName}"
+            HorizontalOptions= "StartAndExpand" VerticalOptions="StartAndExpand"/>
+        
+        <Label
+            Grid.Row="1" Grid.Column="1"
+            FontSize="10"
+            TextColor="Silver"
+            Margin="0, 5, 14,30"
+            Text="{Binding NumberOfReplies}"
+            HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
+            
+        <Frame
+            Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2"
+            Padding="10"
+            Margin="5,0,5,0"
+            OutlineColor="#f6b93b">
+                <Entry
+                    x:Name="replyPostInput"
+                    Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2"
+                    Keyboard="Text"
+                    PlaceholderColor="#f6b93b"
+                    Placeholder="Reply to Post..."
+                    TextChanged="OnReplyTextLimit"
+                    HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+        </Frame>
+            
+        <Button 
+            x:Name="postButton"
+            Grid.Row="2" Grid.Column= "1"
+            Text="Post"
+            Margin="0,7,12,6"
+            Command="{Binding PostButtonCommand}"
+            HeightRequest="30" WidthRequest="40"
+            VerticalOptions="End" HorizontalOptions="End"/>
+       
+        <ListView         
+            x:Name="FeedDetailsPageListView"
+            Grid.Row="4" Grid.ColumnSpan="2"
+            ItemsSource="{Binding FeedDetailsListViewItemSource}" >
+            <ListView.RowHeight>
+                <OnPlatform x:TypeArguments="x:Int32">
+                    <On Platform="iOS, Android" Value="120" />
+                </OnPlatform>
+            </ListView.RowHeight>
+               <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <views:FeedDetailsViewCell/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </Grid>
 </ContentPage>
