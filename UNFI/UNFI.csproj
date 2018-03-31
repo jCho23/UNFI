@@ -65,6 +65,7 @@
       <DependentUpon>FeedDetailsPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="ViewModels\FeedDetailsViewModel.cs" />
+    <Compile Include="Models\ReplyMessageModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
