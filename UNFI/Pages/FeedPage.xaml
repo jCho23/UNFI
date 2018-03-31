@@ -4,7 +4,14 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
     x:Class="UNFI.Pages.FeedPage">
 
-
+    <ContentPage.ToolbarItems>
+        <ToolbarItem
+            x:Name="AddPost"
+            Priority="0" 
+            Icon="Add.png" 
+            Order="Primary" 
+           />
+   </ContentPage.ToolbarItems>
 
     
 </ContentPage>

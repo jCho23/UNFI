@@ -1,11 +1,14 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/FeedPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/obj/Debug/UNFI.Pages.FeedPage.xaml.g.cs">
     <Files>
-      <File FileName="UNFI/Pages/FeedPage.xaml" Line="6" Column="1" />
+      <File FileName="UNFI/Pages/FeedPage.xaml" Line="7" Column="5" />
       <File FileName="UNFI/Pages/FeedPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="UNFI/packages.config" Line="1" Column="1" />
+      <File FileName="UNFI/App.xaml.cs" Line="7" Column="21" />
+      <File FileName="UNFI/obj/Debug/UNFI.Pages.FeedPage.xaml.g.cs" Line="22" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" FirstBuild="True">
+  <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.UNFI.iOS>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -15,5 +18,4 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.UNFI.Droid FirstBuild="True" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.UNFI FirstBuild="True" />
 </Properties>

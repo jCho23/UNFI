@@ -8,7 +8,7 @@ namespace UNFI
         {
             InitializeComponent();
 
-            MainPage = new UNFIPage();
+            MainPage = new Pages.FeedPage();
         }
 
         protected override void OnStart()
