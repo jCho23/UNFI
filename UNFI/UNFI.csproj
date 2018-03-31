@@ -64,6 +64,7 @@
     <Compile Include="Pages\FeedDetailsPage.xaml.cs">
       <DependentUpon>FeedDetailsPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ViewModels\FeedDetailsViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
