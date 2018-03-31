@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 
 using Foundation;
-using ImageCircle.Forms.Plugin.iOS;
 using UIKit;
+
+using ImageCircle.Forms.Plugin.iOS;
 
 namespace UNFI.iOS
 {
