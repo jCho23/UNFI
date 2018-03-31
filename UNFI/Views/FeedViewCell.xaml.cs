@@ -5,7 +5,7 @@ using Xamarin.Forms;
 
 namespace UNFI.Views
 {
-    public partial class FeedViewCell : ContentPage
+    public partial class FeedViewCell : ViewCell
     {
         public FeedViewCell()
         {

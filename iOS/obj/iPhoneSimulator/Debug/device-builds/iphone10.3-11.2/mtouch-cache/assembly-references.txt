@@ -28,6 +28,8 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.Net.Http.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.Runtime.Serialization.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/System.ServiceModel.Internals.dll
+/Users/june/Projects/UNFI/packages/Xam.Plugins.Forms.ImageCircle.2.0.2/lib/Xamarin.iOS10/ImageCircle.Forms.Plugin.iOS.dll
+/Users/june/Projects/UNFI/packages/Xam.Plugins.Forms.ImageCircle.2.0.2/lib/Xamarin.iOS10/ImageCircle.Forms.Plugin.Abstractions.dll
 /Users/june/Projects/UNFI/UNFI/bin/Debug/UNFI.dll
 /Users/june/Projects/UNFI/packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/Facades/System.Text.RegularExpressions.dll

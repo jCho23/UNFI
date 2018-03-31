@@ -1,4 +1,5 @@
 ﻿using Xamarin.Forms;
+using Xamarin.Forms.PlatformConfiguration.iOSSpecific;
 
 namespace UNFI
 {
@@ -8,7 +9,10 @@ namespace UNFI
         {
             InitializeComponent();
 
-            MainPage = new Pages.FeedPage();
+            var navigationPage = new Xamarin.Forms.NavigationPage(new Pages.FeedPage());
+            navigationPage.On<Xamarin.Forms.PlatformConfiguration.iOS>().SetPrefersLargeTitles(true);
+
+            MainPage = navigationPage;
         }
 
         protected override void OnStart()
