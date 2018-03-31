@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/FeedDetailsPage.xaml.cs">
     <Files>
-      <File FileName="UNFI/Pages/FeedPage.xaml" Line="11" Column="13" />
-      <File FileName="UNFI/Pages/FeedPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="UNFI/Pages/FeedPage.xaml" Line="32" Column="23" />
+      <File FileName="UNFI/Pages/FeedPage.xaml.cs" Line="30" Column="58" />
       <File FileName="UNFI/packages.config" Line="1" Column="1" />
-      <File FileName="UNFI/App.xaml.cs" Line="7" Column="21" />
+      <File FileName="UNFI/App.xaml.cs" Line="16" Column="10" />
       <File FileName="UNFI/obj/Debug/UNFI.Pages.FeedPage.xaml.g.cs" Line="22" Column="1" />
       <File FileName="UNFI/Views/FeedViewCell.xaml" Line="5" Column="114" />
       <File FileName="UNFI/Views/FeedViewCell.xaml.cs" Line="5" Column="1" />
@@ -15,6 +15,8 @@
       <File FileName="UNFI/Models/UserProfileModel.cs" Line="11" Column="2" />
       <File FileName="UNFI/Models/PostMessageModel.cs" Line="6" Column="39" />
       <File FileName="UNFI/App.xaml" Line="7" Column="1" />
+      <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="6" Column="1" />
+      <File FileName="UNFI/Pages/FeedDetailsPage.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C">
