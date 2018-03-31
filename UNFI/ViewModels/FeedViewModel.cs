@@ -4,6 +4,7 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Input;
+using UNFI.Models;
 using Xamarin.Forms;
 
 namespace UNFI.ViewModels
