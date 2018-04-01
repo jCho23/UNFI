@@ -51,7 +51,7 @@ namespace UNFI.ViewModels
             {
                 new PostMessageModel
                 {
-                    PostText = "Anyone want to give me a ride to work?",
+                    PostText = "Car won't start, can someone give me a ride to work for second shift?",
                     NumberOfReplies =23,
                     PostUser= new UserProfileModel
                     {
@@ -61,7 +61,7 @@ namespace UNFI.ViewModels
                 },
                 new PostMessageModel
                 {
-                    PostText = "Everything around you that you call life was made up by people that were no smarter than you",
+                    PostText = "Potluck this Friday for lunch! I'm bringing home-cooked ribs, anyone else in? ",
                     NumberOfReplies = 8,
                     PostUser= new UserProfileModel
                     {
