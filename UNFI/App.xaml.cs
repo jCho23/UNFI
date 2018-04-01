@@ -32,5 +32,37 @@ namespace UNFI
         {
             // Handle when your app resumes
         }
+
+        public string PostText
+        {
+            get
+            {
+                if (Properties.ContainsKey(PostKey))
+                    return Properties[PostKey].ToString();
+
+                return "";
+            }
+
+            set
+            {
+                Properties[PostKey] = value;
+            }
+        }
+
+        public string ReplyText
+        {
+            get
+            {
+                if (Properties.ContainsKey(ReplyKey))
+                    return Properties[ReplyKey].ToString();
+
+                return "";
+            }
+
+            set
+            {
+                Properties[ReplyKey] = value;
+            }
+        }
     }
 }
