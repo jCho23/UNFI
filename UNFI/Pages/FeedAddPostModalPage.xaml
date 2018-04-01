@@ -38,7 +38,7 @@
                 HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand" />
             <Frame
                 Grid.Row="1" Grid.ColumnSpan="2"
-                OutlineColor="#52bf90">
+                OutlineColor="White">
                     <StackLayout
                         Grid.ColumnSpan="2">
                         <Editor
@@ -46,7 +46,7 @@
                             FontSize="23"
                             Keyboard="Text"
                             Text="{Binding UserInputPost}"
-                            TextColor="#f6b93b"
+                            TextColor="White"
                             HeightRequest="40"
                             BackgroundColor="Transparent"
                             HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" />              
@@ -55,6 +55,7 @@
                             Grid.Row="2" Grid.Column= "1"
                             Margin="0,40,0,0"
                             Text="Post Message"
+                            TextColor="Black"
                             Command="{Binding PostMessageCommand}"
                             HeightRequest="30" WidthRequest="140"
                             HorizontalOptions="End" VerticalOptions="End" />
