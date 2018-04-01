@@ -50,6 +50,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="Pages\BasePage\FeedAddPostModalPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -79,6 +83,9 @@
     </Compile>
     <Compile Include="Pages\BasePage\UNFITabbedPage.xaml.cs">
       <DependentUpon>UNFITabbedPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\BasePage\FeedAddPostModalPage.xaml.cs">
+      <DependentUpon>FeedAddPostModalPage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
