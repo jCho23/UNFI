@@ -5,7 +5,8 @@
     xmlns:xfg="clr-namespace:XFGloss;assembly=XFGloss"
     xmlns:views="clr-namespace:UNFI.Views;assembly=UNFI"
     xmlns:ic="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
-    x:Class="UNFI.Pages.FeedDetailsPage">
+    x:Class="UNFI.Pages.FeedDetailsPage"
+    Title="Feed Details">
 
     <xfg:ContentPageGloss.BackgroundGradient>
         <xfg:Gradient Rotation="180">
@@ -67,12 +68,12 @@
             Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2"
             Padding="10"
             Margin="5,0,5,0"
-            OutlineColor="#52bf90">
+            OutlineColor="White">
                 <Entry
                     x:Name="replyPostInput"
                     Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2"
                     Keyboard="Text"
-                    PlaceholderColor="#White"
+                    PlaceholderColor="White"
                     Placeholder="Reply to Post..."
                     TextChanged="OnReplyTextLimit"
                     HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
