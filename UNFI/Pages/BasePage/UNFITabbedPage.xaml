@@ -3,8 +3,8 @@
     xmlns="http://xamarin.com/schemas/2014/forms" 
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:localPages="clr-namespace:UNFI.Pages;assembly=UNFI"
-
-    x:Class="UNFI.Pages.BasePage.UNFITabbedPage">
+    x:Class="UNFI.Pages.BasePage.UNFITabbedPage"
+    Title="UNFI">
 
     <localPages:FeedPage
         Title="Feed"
