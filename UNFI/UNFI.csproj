@@ -66,6 +66,7 @@
     </Compile>
     <Compile Include="ViewModels\FeedDetailsViewModel.cs" />
     <Compile Include="Models\ReplyMessageModel.cs" />
+    <Compile Include="Views\FeedDetailsViewCell.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
