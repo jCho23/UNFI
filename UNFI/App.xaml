@@ -58,6 +58,8 @@
                 TargetType= "Frame">
                     <Setter Property="HasShadow" Value="false"/>
                     <Setter Property="BackgroundColor" Value="Transparent"/>
+                    <Setter Property="OutlineColor" Value="#52bf90"/>
+
             </Style>
 
         </ResourceDictionary>    
