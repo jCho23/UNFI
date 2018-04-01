@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/FeedPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/FeedAddPostModalPage.xaml">
     <Files>
-      <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml.cs" Line="12" Column="13" />
-      <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml" Line="55" Column="15" />
+      <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml.cs" Line="15" Column="10" />
+      <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml" Line="20" Column="9" />
       <File FileName="UNFI/Pages/FeedPage.xaml.cs" Line="21" Column="60" />
       <File FileName="UNFI/Pages/FeedPage.xaml" Line="50" Column="1" />
     </Files>
