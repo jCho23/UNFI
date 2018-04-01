@@ -5,6 +5,9 @@ namespace UNFI
 {
     public partial class App : Application
     {
+        private const string PostKey = "PostText";
+        private const string ReplyKey = "ReplyText";
+
         public App()
         {
             InitializeComponent();
