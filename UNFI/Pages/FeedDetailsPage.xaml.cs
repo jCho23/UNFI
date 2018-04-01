@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using UNFI.Models;
+using UNFI.ViewModels;
 using Xamarin.Forms;
 
 namespace UNFI.Pages

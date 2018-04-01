@@ -16,10 +16,10 @@ namespace UNFI.Pages
             InitializeComponent();
         }
 
-        async void OnAddButton_Activated(object sender, System.EventArgs e)
-        {
-            await Navigation.PushModalAsync(new FeedAddPostModalPage());
-        }
+        //async void OnAddButton_Activated(object sender, System.EventArgs e)
+        //{
+        //    await Navigation.PushModalAsync(new FeedAddPostModalPage());
+        //}
 
 
         async void Handle_ItemSelected(object sender, Xamarin.Forms.SelectedItemChangedEventArgs e)
