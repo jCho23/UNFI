@@ -7,6 +7,8 @@
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/XFGloss.dll
+/Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/XFGloss.iOS.dll
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/UNFI.pdb
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/ImageCircle.Forms.Plugin.Abstractions.pdb
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/ImageCircle.Forms.Plugin.Abstractions.xml
@@ -18,6 +20,8 @@
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.xml
+/Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/XFGloss.xml
+/Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/XFGloss.iOS.xml
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
@@ -63,8 +67,3 @@
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.csproj.CoreCompileInputs.cache
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.exe
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.pdb
-/Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/XFGloss.dll
-/Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/XFGloss.iOS.dll
-/Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/XFGloss.xml
-/Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/XFGloss.iOS.xml
-/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.csprojResolveAssemblyReference.cache
