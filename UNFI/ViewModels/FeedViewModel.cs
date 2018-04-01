@@ -71,7 +71,7 @@ namespace UNFI.ViewModels
                 },
                 new PostMessageModel
                 {
-                    PostText = "What's the best pizza joint around campus? ",
+                    PostText = "Shoutout to Jason who helped me put together a palette and load up the truck like a pro!",
                     NumberOfReplies = 48,
                     PostUser= new UserProfileModel
                     {

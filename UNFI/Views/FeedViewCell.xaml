@@ -17,7 +17,7 @@
                             WidthRequest="75"
                             HeightRequest="75"
                             Aspect="AspectFill"
-                            BorderColor="Gray"
+                            BorderColor="White"
                             BorderThickness="1"
                             />
                         <Grid>

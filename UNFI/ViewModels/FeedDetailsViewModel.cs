@@ -18,13 +18,6 @@ namespace UNFI.ViewModels
 
         ObservableCollection<ReplyMessageModel> feedDetailsListViewItemSource;
 
-
-
-        //public ICommand SubmitButtonCommand => submitButtonCommand ??
-        //(submitButtonCommand = new Command(async () => await ExecuteSubmitButtonCommand()));
-
-
-
         public FeedDetailsViewModel(PostMessageModel postMessage)
         {
             //Pull all ReplyMessageModels from the database where ReplyMessageModel.PostMessageId == postMessage.Id
