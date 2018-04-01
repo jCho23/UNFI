@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/FeedPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="UNFI/Pages/FeedPage.xaml" Line="16" Column="46" />
-      <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml" Line="25" Column="19" />
-      <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml.cs" Line="18" Column="10" />
+      <File FileName="UNFI/Pages/FeedPage.xaml" Line="50" Column="1" />
+      <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml" Line="55" Column="15" />
+      <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml.cs" Line="6" Column="21" />
       <File FileName="UNFI/Pages/BasePage/UNFITabbedPage.xaml" Line="21" Column="1" />
       <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="99" Column="15" />
-      <File FileName="UNFI/Pages/FeedPage.xaml.cs" Line="18" Column="9" />
+      <File FileName="UNFI/Pages/FeedPage.xaml.cs" Line="21" Column="60" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C">

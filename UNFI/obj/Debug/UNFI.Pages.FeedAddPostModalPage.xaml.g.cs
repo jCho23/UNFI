@@ -8,11 +8,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace UNFI.Pages.BasePage {
+namespace UNFI.Pages {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/june/Projects/UNFI/UNFI/Pages/FeedAddPostModalPage.xaml")]
-    public partial class FeedAddPostModalPage : global::Xamarin.Forms.ContentPage {
+    public partial class BasePageAddPostModalPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Button cancelButton;
@@ -22,7 +22,7 @@ namespace UNFI.Pages.BasePage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(FeedAddPostModalPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(BasePageAddPostModalPage));
             cancelButton = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "cancelButton");
             postMessageButton = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "postMessageButton");
         }

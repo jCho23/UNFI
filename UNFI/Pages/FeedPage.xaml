@@ -12,7 +12,8 @@
             x:Name="AddPost"
             Priority="0" 
             Icon="Add.png" 
-            Order="Primary" 
+            Order="Primary"
+            Activated="OnAddButton_Activated"
            />
    </ContentPage.ToolbarItems>
 

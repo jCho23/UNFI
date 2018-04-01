@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 using Xamarin.Forms;
 
-namespace UNFI.Pages.BasePage
+namespace UNFI.Pages
 {
     public partial class FeedAddPostModalPage : ContentPage
     {
