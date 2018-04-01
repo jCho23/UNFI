@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ContentPage 
+<TabbedPage 
     xmlns="http://xamarin.com/schemas/2014/forms" 
-    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:localPages="clr-namespace:UNFI.Pages;assembly=UNFI"
+
     x:Class="UNFI.Pages.BasePage.UNFITabbedPage">
 
+    <localPages:FeedPage
+        Title="Feed"
+        Icon="Apple.png" />
 
+<!--    <localPages:MyPostsPage
+        Title="My Posts"
+        Icon="Apple.png" />-->
 
 
 
     
-</ContentPage>
+</TabbedPage>

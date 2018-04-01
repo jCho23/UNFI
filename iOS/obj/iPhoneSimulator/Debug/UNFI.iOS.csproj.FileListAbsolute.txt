@@ -62,3 +62,4 @@
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/ImageCircle.Forms.Plugin.Abstractions.pdb
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/ImageCircle.Forms.Plugin.Abstractions.xml
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/ImageCircle.Forms.Plugin.iOS.xml
+/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/apple.png

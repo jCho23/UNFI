@@ -12,7 +12,7 @@ namespace UNFI.Pages.BasePage {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/june/Projects/UNFI/UNFI/Pages/BasePage/UNFITabbedPage.xaml")]
-    public partial class UNFITabbedPage : global::Xamarin.Forms.ContentPage {
+    public partial class UNFITabbedPage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {

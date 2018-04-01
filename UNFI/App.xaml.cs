@@ -9,7 +9,7 @@ namespace UNFI
         {
             InitializeComponent();
 
-            var navigationPage = new Xamarin.Forms.NavigationPage(new Pages.FeedPage());
+            var navigationPage = new Xamarin.Forms.NavigationPage(new Pages.BasePage.UNFITabbedPage());
             navigationPage.On<Xamarin.Forms.PlatformConfiguration.iOS>().SetPrefersLargeTitles(true);
 
             MainPage = navigationPage;
