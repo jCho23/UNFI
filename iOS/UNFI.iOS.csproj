@@ -135,6 +135,7 @@
   <ItemGroup>
     <BundleResource Include="Resources\Add.png" />
     <BundleResource Include="Resources\Apple.png" />
+    <BundleResource Include="Resources\LANENAR_.ttf" />
     <BundleResource Include="Resources\BebasNeue-Regular.ttf" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />

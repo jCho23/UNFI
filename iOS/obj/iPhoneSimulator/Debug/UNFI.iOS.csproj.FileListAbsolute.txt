@@ -67,3 +67,4 @@
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.csproj.CoreCompileInputs.cache
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.exe
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.pdb
+/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.csprojResolveAssemblyReference.cache

@@ -19,21 +19,21 @@
             <Style
                 TargetType= "Label">
                     <Setter Property="TextColor" Value="White" />
-                    <Setter Property="FontFamily" Value="BebasNeue-Regular"/>
+                    <Setter Property="FontFamily" Value="LANENAR_"/>
                     <Setter Property="BackgroundColor" Value="Transparent"/>
             </Style>
 
             <!--SEARCHBAR-->
             <Style
                 TargetType= "SearchBar">
-                    <Setter Property="FontFamily" Value="BebasNeue-Regular"/>
+                    <Setter Property="FontFamily" Value="LANENAR_"/>
                     <Setter Property="BackgroundColor" Value="Transparent"/>
             </Style>
 
             <!--ENTRY-->
             <Style
                 TargetType= "Entry">
-                    <Setter Property="FontFamily" Value="BebasNeue-Regular"/>
+                    <Setter Property="FontFamily" Value="LANENAR_"/>
                     <Setter Property="TextColor" Value="#White" />
                     <Setter Property="BackgroundColor" Value="Transparent"/>
             </Style>
@@ -41,7 +41,7 @@
             <!--BUTTON-->
             <Style
                 TargetType= "Button">
-                    <Setter Property="FontFamily" Value="BebasNeue-Regular"/>
+                    <Setter Property="FontFamily" Value="LANENAR_"/>
                     <Setter Property="BackgroundColor" Value="#398564"/>
             </Style>
 
