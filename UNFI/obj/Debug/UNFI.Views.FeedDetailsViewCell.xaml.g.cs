@@ -12,11 +12,19 @@ namespace UNFI.Views {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/june/Projects/UNFI/UNFI/Views/FeedDetailsViewCell.xaml")]
-    public partial class FeedDetailsViewCell : global::Xamarin.Forms.ContentPage {
+    public partial class FeedDetailsViewCell : global::Xamarin.Forms.ViewCell {
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::ImageCircle.Forms.Plugin.Abstractions.CircleImage UserProfilePicture;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label ReplyMessageLabel;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(FeedDetailsViewCell));
+            UserProfilePicture = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::ImageCircle.Forms.Plugin.Abstractions.CircleImage>(this, "UserProfilePicture");
+            ReplyMessageLabel = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "ReplyMessageLabel");
         }
     }
 }
