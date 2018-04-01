@@ -46,6 +46,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="Pages\BasePage\UNFITabbedPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -72,6 +76,9 @@
     <Compile Include="Models\ReplyMessageModel.cs" />
     <Compile Include="Views\FeedDetailsViewCell.xaml.cs">
       <DependentUpon>FeedDetailsViewCell.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\BasePage\UNFITabbedPage.xaml.cs">
+      <DependentUpon>UNFITabbedPage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
