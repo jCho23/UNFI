@@ -42,6 +42,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\FeedDetailsViewCell.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -66,7 +70,9 @@
     </Compile>
     <Compile Include="ViewModels\FeedDetailsViewModel.cs" />
     <Compile Include="Models\ReplyMessageModel.cs" />
-    <Compile Include="Views\FeedDetailsViewCell.cs" />
+    <Compile Include="Views\FeedDetailsViewCell.xaml.cs">
+      <DependentUpon>FeedDetailsViewCell.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
