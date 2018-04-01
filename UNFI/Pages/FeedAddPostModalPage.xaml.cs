@@ -18,7 +18,7 @@ namespace UNFI.Pages.BasePage
         {
             var homeView = new ContentPage();
 
-            await Navigation.PushModalAsync(new NavigationPage(new Pages.UNFITabbedPage()));
+            await Navigation.PushModalAsync(new NavigationPage(new Pages.BasePage.UNFITabbedPage()));
         }
     }
 }
