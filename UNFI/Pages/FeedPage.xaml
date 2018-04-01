@@ -11,7 +11,7 @@
      <xfg:ContentPageGloss.BackgroundGradient>
         <xfg:Gradient Rotation="180">
             <xfg:GradientStep StepColor="#52bf90" StepPercentage="0" />
-            <xfg:GradientStep StepColor="#49ab81" StepPercentage=".5" />
+            <xfg:GradientStep StepColor="#49ab81" StepPercentage=".3" />
             <xfg:GradientStep StepColor="#419873" StepPercentage=".8" />
         </xfg:Gradient>
     </xfg:ContentPageGloss.BackgroundGradient>
@@ -52,6 +52,5 @@
                         </ListView.ItemTemplate>              
                 </ListView>
         </StackLayout>
-
     
 </ContentPage>

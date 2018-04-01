@@ -21,7 +21,6 @@ namespace UNFI.Pages
             await Navigation.PushModalAsync(new FeedAddPostModalPage());
         }
 
-
         async void Handle_ItemSelected(object sender, Xamarin.Forms.SelectedItemChangedEventArgs e)
         {
             if (e.SelectedItem == null)

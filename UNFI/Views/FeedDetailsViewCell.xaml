@@ -14,8 +14,8 @@
                 HorizontalOptions="Start">
                     <ic:CircleImage
                         x:Name = "UserProfilePicture"
-                        BorderColor="Gray"
-                        BorderThickness="3"
+                        BorderColor="White"
+                        BorderThickness="1"
                         Aspect="AspectFill"
                         HeightRequest="75" WidthRequest="75"/>
                     <Label
