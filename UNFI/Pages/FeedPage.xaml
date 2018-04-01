@@ -29,7 +29,8 @@
                 ItemSelected="Handle_ItemSelected"
                 RefreshCommand="{Binding RefreshCommand}"
                 ItemsSource="{Binding ItemsCurrentlyDisplayedInList}"
-                IsRefreshing="{Binding IsBusy, Mode=OneWay}">
+                IsRefreshing="{Binding IsBusy, Mode=OneWay}"
+                SeparatorColor="Transparent">
                 <ListView.RowHeight>
                     <OnPlatform x:TypeArguments="x:Int32">
                         <On Platform="iOS, Android" Value="120"/>
