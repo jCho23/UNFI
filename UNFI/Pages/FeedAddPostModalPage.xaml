@@ -29,7 +29,7 @@
                 HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand" />
             <Frame
                 Grid.Row="1" Grid.ColumnSpan="2"
-                OutlineColor="#f6b93b">
+                OutlineColor="#52bf90">
                     <StackLayout
                         Grid.ColumnSpan="2">
                         <Editor

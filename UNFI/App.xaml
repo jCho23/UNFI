@@ -11,9 +11,8 @@
             <Style 
                 TargetType="NavigationPage">
                     <Setter Property="HasNavigationBar" Value="True" />
-                    <Setter Property="BarTextColor" Value="#f6b93b" />
-                    <Setter Property="BarBackgroundColor" Value="#0c2461" />
-                    <Setter Property="TitleIcon" Value="bearpaw.png" />
+                    <Setter Property="BarTextColor" Value="White" />
+                    <Setter Property="BarBackgroundColor" Value="#52bf90" />
             </Style>
 
            <!-- LABELS-->
