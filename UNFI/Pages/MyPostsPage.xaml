@@ -2,8 +2,17 @@
 <ContentPage 
     xmlns="http://xamarin.com/schemas/2014/forms" 
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:xfg="clr-namespace:XFGloss;assembly=XFGloss"
     xmlns:views="clr-namespace:UNFI.Views;assembly=UNFI"
     x:Class="UNFI.Pages.MyPostsPage">
+
+    <xfg:ContentPageGloss.BackgroundGradient>
+        <xfg:Gradient Rotation="180">
+            <xfg:GradientStep StepColor="#52bf90" StepPercentage="0" />
+            <xfg:GradientStep StepColor="#49ab81" StepPercentage=".3" />
+            <xfg:GradientStep StepColor="#419873" StepPercentage=".8" />
+        </xfg:Gradient>
+    </xfg:ContentPageGloss.BackgroundGradient>
 
    <ListView
         x:Name="MyPostsListView"
