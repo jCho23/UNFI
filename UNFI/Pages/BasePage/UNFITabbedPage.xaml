@@ -22,7 +22,7 @@
         Title="Shifts"
         Icon="Shifts.png" />
 
-     <localPages:LeaderBoardPage
+     <localPages:LeaderboardPage
         Title="LeaderBoard"
         Icon="LeaderBoard.png" />
 
