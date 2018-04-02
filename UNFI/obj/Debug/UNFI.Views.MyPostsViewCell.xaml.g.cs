@@ -12,11 +12,23 @@ namespace UNFI.Views {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/june/Projects/UNFI/UNFI/Views/MyPostsViewCell.xaml")]
-    public partial class MyPostsViewCell : global::Xamarin.Forms.ContentPage {
+    public partial class MyPostsViewCell : global::Xamarin.Forms.ViewCell {
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::ImageCircle.Forms.Plugin.Abstractions.CircleImage UserProfilePicture;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label MyPostsMessageLabel;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label PostNumberOfRepliesLabel;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MyPostsViewCell));
+            UserProfilePicture = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::ImageCircle.Forms.Plugin.Abstractions.CircleImage>(this, "UserProfilePicture");
+            MyPostsMessageLabel = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "MyPostsMessageLabel");
+            PostNumberOfRepliesLabel = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "PostNumberOfRepliesLabel");
         }
     }
 }
