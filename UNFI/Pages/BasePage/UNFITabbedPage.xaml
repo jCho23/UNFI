@@ -3,7 +3,6 @@
     xmlns="http://xamarin.com/schemas/2014/forms" 
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:localPages="clr-namespace:UNFI.Pages;assembly=UNFI"
-    
     x:Class="UNFI.Pages.BasePage.UNFITabbedPage"
     Title="UNFI">
 
@@ -19,12 +18,12 @@
         Title="Events"
         Icon="Events.png" />
 
+    <localPages:ShiftsPage
+        Title="Shifts"
+        Icon="Shifts.png" />
 
     <localPages:ProfilePage
         Title= "Profile"
         Icon ="Profile.png" />
-
-
-
     
 </TabbedPage>
