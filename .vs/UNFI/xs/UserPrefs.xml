@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Views/EventsViewCell.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/ViewModels/FeedDetailsViewModel.cs">
     <Files>
       <File FileName="UNFI/Views/FeedDetailsViewCell.xaml" Line="30" Column="12" />
       <File FileName="UNFI/Views/EventsViewCell.xaml.cs" Line="19" Column="49" />
       <File FileName="UNFI/Views/EventsViewCell.xaml" Line="42" Column="1" />
+      <File FileName="UNFI/ViewModels/FeedDetailsViewModel.cs" Line="15" Column="83" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" automaticSigning="False" />
