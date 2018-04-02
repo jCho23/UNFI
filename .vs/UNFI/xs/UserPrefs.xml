@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/FeedPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/ProfilePage.xaml">
     <Files>
-      <File FileName="UNFI/Pages/ProfilePage.xaml" Line="44" Column="13" />
+      <File FileName="UNFI/Pages/ProfilePage.xaml" Line="111" Column="17" />
       <File FileName="UNFI/obj/Debug/UNFI.Pages.BasePage.UNFITabbedPage.xaml.g.cs" Line="19" Column="1" />
-      <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="109" Column="15" />
+      <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="71" Column="16" />
       <File FileName="UNFI/Pages/FeedPage.xaml" Line="56" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
