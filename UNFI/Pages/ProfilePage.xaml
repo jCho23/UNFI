@@ -117,9 +117,15 @@
                     Grid.Row="3"
                     Grid.Column="0"
                     Source="Badge1.png"
-                    Margin="5,0,0,0"
+                    Margin="10,0,0,0"
                     HorizontalOptions="Start"
                     VerticalOptions="Start"/>
+
+                <Label
+                    Grid.Row="3"
+                    Grid.Column="0"
+                    Margin="15,50,0,0"
+                    Text="MVP" />
             
 
                 
