@@ -4,13 +4,20 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
     x:Class="UNFI.Pages.EventsPage">
 
-    <Label
-        Text="Events Page"
-        HorizontalOptions="Center"
-        VerticalOptions="Center"
-        TextColor="Fuchsia"/>
+    <ListView
+        x:Name="EventsListView"
+        ItemsSource="{Binding MyPostsListViewItemSource}">
+         <ListView.RowHeight>
+                <OnPlatform x:TypeArguments="x:Int32">
+                    <On Platform="iOS, Android" Value="120" />
+                </OnPlatform>
+            </ListView.RowHeight>
 
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <views:MyPostsViewCell/>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
 
-
-    
 </ContentPage>
