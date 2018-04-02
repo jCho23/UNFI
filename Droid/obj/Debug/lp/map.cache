@@ -23,3 +23,5 @@ Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
 ImageCircle.Forms.Plugin.Abstractions
 ImageCircle.Forms.Plugin.Android
+XFGloss
+XFGloss.Droid

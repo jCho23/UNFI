@@ -15,6 +15,10 @@
         Title="My Posts"
         Icon="Apple.png" />-->
 
+    <localPages:ProfilePage
+        Title= "Profile"
+        Icon ="Profile.png" />
+
 
 
     
