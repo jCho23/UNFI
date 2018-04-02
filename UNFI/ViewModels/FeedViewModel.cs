@@ -39,6 +39,9 @@ namespace UNFI.ViewModels
 
         public FeedViewModel()
         {
+            // PostUserProfileUrl = postMessage.PostUser.PictureUrl;
+            //PostUserName = postMessage.PostUser.Name;
+            //PostUserPostText = postMessage.PostText;
 
             //if (postMessage.NumberOfReplies == 1)
             //    NumberOfReplies = $"{postMessage.NumberOfReplies} Reply";
@@ -52,7 +55,7 @@ namespace UNFI.ViewModels
                 new PostMessageModel
                 {
                     PostText = "Car won't start, can someone give me a ride to work for second shift?",
-                    NumberOfReplies =23,
+                    NumberOfReplies = 23,
                     PostUser= new UserProfileModel
                     {
                         Name = "Sarah Jenner",
