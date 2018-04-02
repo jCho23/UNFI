@@ -11,9 +11,9 @@
         Title="Feed"
         Icon="Apple.png" />
 
-<!--    <localPages:MyPostsPage
+    <localPages:MyPostsPage
         Title="My Posts"
-        Icon="Apple.png" />-->
+        Icon="Chat.png" />
 
     <localPages:ProfilePage
         Title= "Profile"
