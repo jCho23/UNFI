@@ -74,6 +74,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\EventsViewCell.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -124,6 +128,9 @@
       <DependentUpon>ShiftsPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="ViewModels\EventsViewModel.cs" />
+    <Compile Include="Views\EventsViewCell.xaml.cs">
+      <DependentUpon>EventsViewCell.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
