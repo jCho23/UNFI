@@ -18,9 +18,9 @@
         Title="Events"
         Icon="Events.png" />
 
-    <localPages:ShiftsPage
+ <!--   <localPages:ShiftsPage
         Title="Shifts"
-        Icon="Shifts.png" />
+        Icon="Shifts.png" />-->
 
      <localPages:LeaderboardPage
         Title="LeaderBoard"
