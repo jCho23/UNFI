@@ -47,29 +47,73 @@
             <Grid
                 >
                 <Grid.RowDefinitions>
-                    <RowDefinition Height="100"/>
+                    <RowDefinition Height="70"/>
+                     <RowDefinition Height="80"/>
+                     <RowDefinition Height="*"/>
                     
                 </Grid.RowDefinitions>
 
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*"/>
-                    
+                    <ColumnDefinition Width="*"/>
                 </Grid.ColumnDefinitions>
 
-                <Frame>
-                
+            <Frame
+                Grid.RowSpan="2"
+                Grid.ColumnSpan="2"
+                BackgroundColor="Silver">
+               
+            </Frame>
+           
                 <Label
                     Grid.Row="0"
                     Grid.Column="0"
-                    Text="Points: 10" />
+                    Text="10"
+                    FontSize="50"
+                    Margin="0,30,0,0"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"/>
+                <Label
+                    Grid.Row="1"
+                    Grid.Column="0"
+                    Text="Points"
+                    FontSize="30"
+                    TextColor="Black"
+                    Margin="0,-40,0,0"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"
+                    />
+                
+
+                <Label
+                    Grid.Row="0"
+                    Grid.Column="1"
+                    Text="98%"
+                    Margin="0,30,0,0"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"
+                    FontSize="50"/>
+
+                <Label
+                    Grid.Row="1"
+                    Grid.Column="1"
+                    Text="Rating"
+                    VerticalOptions="Center"
+                    Margin="0,-40,0,0"
+                    HorizontalOptions="Center"
+                    FontSize="30"
+                    TextColor="Black"/>
+
+          
+                <ic:CircleImage
+                    Grid.Row="2"
+                    Grid.ColumnSpan="2"
+                    Source="add.png"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"/>
 
                 
-                </Frame>
-             
-
-
-
-                
+        
             </Grid>
             
       
