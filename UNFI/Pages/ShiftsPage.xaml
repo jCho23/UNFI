@@ -4,7 +4,11 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
     x:Class="UNFI.Pages.ShiftsPage">
 
-
+    <Label
+        Text="ShiftPage"
+        TextColor="Fuchsia"
+        HorizontalOptions="Center"
+        VerticalOptions="Center"/>
 
     
 </ContentPage>
