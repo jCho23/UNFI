@@ -70,3 +70,4 @@
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.csprojResolveAssemblyReference.cache
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/Profile.png
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/Chat.png
+/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/Heart.png
