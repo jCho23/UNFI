@@ -1,23 +1,24 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Views/LeaderboardViewCell.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/ViewModels/LeaderboardViewModel.cs">
     <Files>
-      <File FileName="UNFI/ViewModels/LeaderboardViewModel.cs" Line="103" Column="10" />
-      <File FileName="UNFI/Views/LeaderboardViewCell.xaml" Line="6" Column="5" />
-      <File FileName="UNFI/Views/LeaderboardViewCell.xaml.cs" Line="1" Column="1" />
+      <File FileName="UNFI/ViewModels/LeaderboardViewModel.cs" Line="21" Column="54" />
+      <File FileName="UNFI/Views/LeaderboardViewCell.xaml" Line="6" Column="1" />
+      <File FileName="UNFI/Views/LeaderboardViewCell.xaml.cs" Line="24" Column="6" />
+      <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="7" Column="28" />
+      <File FileName="UNFI/Pages/FeedDetailsPage.xaml.cs" Line="18" Column="9" />
       <File FileName="UNFI/Views/FeedDetailsViewCell.xaml" Line="9" Column="1" NotebookId="1" />
       <File FileName="UNFI/Views/EventsViewCell.xaml.cs" Line="19" Column="49" NotebookId="1" />
       <File FileName="UNFI/Views/EventsViewCell.xaml" Line="42" Column="1" NotebookId="1" />
-      <File FileName="UNFI/ViewModels/FeedDetailsViewModel.cs" Line="127" Column="61" NotebookId="1" />
-      <File FileName="UNFI/Pages/LeaderboardPage.xaml" Line="35" Column="25" NotebookId="1" />
-      <File FileName="UNFI/Pages/LeaderboardPage.xaml.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="UNFI/ViewModels/FeedDetailsViewModel.cs" Line="19" Column="49" NotebookId="1" />
+      <File FileName="UNFI/Pages/LeaderboardPage.xaml" Line="10" Column="45" NotebookId="1" />
+      <File FileName="UNFI/Pages/LeaderboardPage.xaml.cs" Line="11" Column="8" NotebookId="1" />
       <File FileName="UNFI/Pages/BasePage/UNFITabbedPage.xaml" Line="21" Column="6" NotebookId="1" />
       <File FileName="UNFI/Pages/FeedPage.xaml" Line="6" Column="11" NotebookId="1" />
       <File FileName="UNFI/Pages/MyPostsPage.xaml" Line="34" Column="1" NotebookId="1" />
       <File FileName="UNFI/Pages/FeedPage.xaml.cs" Line="24" Column="1" NotebookId="1" />
       <File FileName="UNFI/Views/FeedViewCell.xaml" Line="65" Column="1" NotebookId="1" />
       <File FileName="UNFI/Pages/EventsPage.xaml" Line="26" Column="1" NotebookId="1" />
-      <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="79" Column="5" NotebookId="1" />
-      <File FileName="UNFI/Views/FeedDetailsViewCell.xaml.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="UNFI/Views/FeedDetailsViewCell.xaml.cs" Line="15" Column="6" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" automaticSigning="False" />

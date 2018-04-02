@@ -10,8 +10,8 @@ namespace UNFI.Pages
     {
         public FeedDetailsPage(PostMessageModel postMessage)
         {
-            var feedDetailsPageViewModel = new FeedDetailsViewModel(postMessage);
-            this.BindingContext = feedDetailsPageViewModel;
+            var feedDetailsViewModel = new FeedDetailsViewModel(postMessage);
+            this.BindingContext = feedDetailsViewModel;
 
             InitializeComponent();
         }

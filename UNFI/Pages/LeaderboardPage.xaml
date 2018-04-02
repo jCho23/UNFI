@@ -5,42 +5,20 @@
     xmlns:views="clr-namespace:UNFI.Views;assembly=UNFI"
     x:Class="UNFI.Pages.LeaderboardPage">
 
-    <ListView>
-        <ListView.ItemTemplate>
-            <DataTemplate>
-                <ViewCell>
-                    <ViewCell.View>
-                        
-                    <Grid>
-                        <Grid.RowDefinitions>
-                            <RowDefinition Height="*"/>
-                        </Grid.RowDefinitions>
-
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*"/>
-                            <ColumnDefinition Width="*"/>
-                            <ColumnDefinition Width="*"/>
-                        </Grid.ColumnDefinitions>
-
-                        <Label
-                            Grid.Row="0"
-                            Grid.Column="0"
-                            Text="1"
-                            TextColor="Fuchsia"
-                            FontSize="23"
-                        />
-
-
-
-
-
-
-                        
-                    </Grid>
-                    </ViewCell.View>
-                </ViewCell>
-            </DataTemplate>
-        </ListView.ItemTemplate>
-    </ListView>
+   <ListView         
+            x:Name="LeaderBoardPageListView"
+            Grid.Row="4" Grid.ColumnSpan="2"
+            ItemsSource="{Binding LeaderboardListViewItemSource}" >
+            <ListView.RowHeight>
+                <OnPlatform x:TypeArguments="x:Int32">
+                    <On Platform="iOS, Android" Value="120" />
+                </OnPlatform>
+            </ListView.RowHeight>
+               <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <views:LeaderboardViewCell/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
 
 </ContentPage>

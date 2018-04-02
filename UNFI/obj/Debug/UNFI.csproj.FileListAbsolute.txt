@@ -33,3 +33,4 @@
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.Pages.ShiftsPage.xaml.g.cs
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.Views.EventsViewCell.xaml.g.cs
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.Pages.LeaderboardPage.xaml.g.cs
+/Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.Views.LeaderboardViewCell.xaml.g.cs
