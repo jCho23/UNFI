@@ -1,10 +1,12 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/ProfilePage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/MyPostsPage.xaml.cs">
     <Files>
       <File FileName="UNFI/Pages/ProfilePage.xaml" Line="111" Column="17" />
       <File FileName="UNFI/obj/Debug/UNFI.Pages.BasePage.UNFITabbedPage.xaml.g.cs" Line="19" Column="1" />
       <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="71" Column="16" />
       <File FileName="UNFI/Pages/FeedPage.xaml" Line="56" Column="15" />
+      <File FileName="UNFI/Pages/MyPostsPage.xaml" Line="6" Column="1" />
+      <File FileName="UNFI/Pages/MyPostsPage.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" automaticSigning="False" />
