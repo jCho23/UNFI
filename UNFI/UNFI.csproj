@@ -101,6 +101,7 @@
     <Compile Include="Pages\MyPostsPage.xaml.cs">
       <DependentUpon>MyPostsPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ViewModels\MyPostsViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
