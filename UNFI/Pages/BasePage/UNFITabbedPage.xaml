@@ -15,6 +15,11 @@
         Title="My Posts"
         Icon="Chat.png" />
 
+     <localPages:EventsPage
+        Title="Events"
+        Icon="Events.png" />
+
+
     <localPages:ProfilePage
         Title= "Profile"
         Icon ="Profile.png" />

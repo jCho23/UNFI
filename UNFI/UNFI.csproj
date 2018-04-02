@@ -70,6 +70,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="Pages\ShiftsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -115,6 +119,9 @@
     </Compile>
     <Compile Include="Pages\EventsPage.xaml.cs">
       <DependentUpon>EventsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ShiftsPage.xaml.cs">
+      <DependentUpon>ShiftsPage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

@@ -72,3 +72,4 @@
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/Chat.png
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/Heart.png
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/Badge1.png
+/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/Events.png
