@@ -1,16 +1,18 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/BasePage/UNFITabbedPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Views/MyPostsViewCell.xaml">
     <Files>
       <File FileName="UNFI/Pages/ProfilePage.xaml" Line="111" Column="17" />
-      <File FileName="UNFI/obj/Debug/UNFI.Pages.BasePage.UNFITabbedPage.xaml.g.cs" Line="19" Column="1" />
+      <File FileName="UNFI/obj/Debug/UNFI.Pages.BasePage.UNFITabbedPage.xaml.g.cs" Line="1" Column="1" />
       <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="71" Column="16" />
-      <File FileName="UNFI/Pages/FeedPage.xaml" Line="56" Column="15" />
-      <File FileName="UNFI/Pages/MyPostsPage.xaml" Line="23" Column="1" />
+      <File FileName="UNFI/Pages/FeedPage.xaml" Line="5" Column="29" />
+      <File FileName="UNFI/Pages/MyPostsPage.xaml" Line="6" Column="57" />
       <File FileName="UNFI/Pages/MyPostsPage.xaml.cs" Line="12" Column="51" />
       <File FileName="UNFI/ViewModels/MyPostsViewModel.cs" Line="16" Column="1" />
-      <File FileName="UNFI/Views/MyPostsViewCell.xaml" Line="40" Column="12" />
+      <File FileName="UNFI/Views/MyPostsViewCell.xaml" Line="6" Column="1" />
       <File FileName="UNFI/Views/MyPostsViewCell.xaml.cs" Line="9" Column="6" />
-      <File FileName="UNFI/Pages/BasePage/UNFITabbedPage.xaml" Line="16" Column="28" />
+      <File FileName="UNFI/Pages/BasePage/UNFITabbedPage.xaml" Line="22" Column="9" />
+      <File FileName="UNFI/Views/FeedViewCell.xaml" Line="65" Column="1" />
+      <File FileName="UNFI/App.xaml" Line="15" Column="73" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" automaticSigning="False" />
