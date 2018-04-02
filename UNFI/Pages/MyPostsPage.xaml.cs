@@ -9,6 +9,9 @@ namespace UNFI.Pages
     {
         public MyPostsPage()
         {
+            var myPostsViewModel = new MyPostsViewModel();
+            this.BindingContext = myPostsViewModel;
+
             InitializeComponent();
         }
     }
