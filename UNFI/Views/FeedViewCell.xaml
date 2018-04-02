@@ -42,7 +42,7 @@
                                     x:Name="PostNumberOfRepliesLabel"
                                     Grid.Row="1" Grid.Column="2"
                                     FontSize="8"
-                                    TextColor="Silver"
+                                    TextColor="Black"
                                     Text="{Binding NumberOfReplies}"
                                     HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
                                 <Image
@@ -52,9 +52,9 @@
                                     Source="heart8.png"/>
                                 <Label
                                     Grid.Row= "1" Grid.Column="1"
-                                    Text="88"
+                                    Text="Replies: 23"
                                     FontSize="8"
-                                    TextColor="Silver"
+                                    TextColor="Transparent"
                                     Margin="30,10,0,0"
                                     HorizontalOptions="Center" VerticalOptions="Center"/>
                         </Grid>                 

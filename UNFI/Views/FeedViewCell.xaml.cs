@@ -20,7 +20,7 @@ namespace UNFI.Views
 
             PostMessageLabel.Text = model?.PostText;
             UserProfilePicture.Source = model?.PostUser.PictureUrl;
-            //PostNumberOfRepliesLabel. = model.NumberOfReplies;
+            //PostNumberOfRepliesLabel = model?.NumberOfReplies;
         }
     }
 }
