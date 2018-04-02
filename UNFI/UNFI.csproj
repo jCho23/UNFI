@@ -62,6 +62,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\MyPostsViewCell.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -102,6 +106,9 @@
       <DependentUpon>MyPostsPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="ViewModels\MyPostsViewModel.cs" />
+    <Compile Include="Views\MyPostsViewCell.xaml.cs">
+      <DependentUpon>MyPostsViewCell.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
