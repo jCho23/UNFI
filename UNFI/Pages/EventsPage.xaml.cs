@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using UNFI.ViewModels;
 using Xamarin.Forms;
 
 namespace UNFI.Pages
@@ -9,6 +9,9 @@ namespace UNFI.Pages
     {
         public EventsPage()
         {
+            var myPostsViewModel = new EventsViewModel();
+            this.BindingContext = myPostsViewModel;
+
             InitializeComponent();
         }
     }

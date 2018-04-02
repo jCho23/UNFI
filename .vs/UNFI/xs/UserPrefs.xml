@@ -1,25 +1,9 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Views/EventsViewCell.xaml.cs">
     <Files>
-      <File FileName="UNFI/Pages/EventsPage.xaml" Line="7" Column="14" />
-      <File FileName="UNFI/Pages/EventsPage.xaml.cs" Line="19" Column="1" />
-      <File FileName="UNFI/ViewModels/EventsViewModel.cs" Line="1" Column="1" />
-      <File FileName="UNFI/Views/EventsViewCell.xaml" Line="15" Column="23" />
-      <File FileName="UNFI/Views/EventsViewCell.xaml.cs" Line="8" Column="54" />
-      <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml" Line="65" Column="15" NotebookId="1" />
-      <File FileName="UNFI/Pages/FeedPage.xaml" Line="28" Column="3" NotebookId="1" />
-      <File FileName="UNFI/Pages/ProfilePage.xaml" Line="127" Column="31" NotebookId="1" />
-      <File FileName="UNFI/Pages/BasePage/UNFITabbedPage.xaml" Line="22" Column="23" NotebookId="1" />
-      <File FileName="UNFI/Pages/ShiftsPage.xaml" Line="12" Column="9" NotebookId="1" />
-      <File FileName="UNFI/Pages/ShiftsPage.xaml.cs" Line="1" Column="1" NotebookId="1" />
-      <File FileName="UNFI/ViewModels/FeedDetailsViewModel.cs" Line="15" Column="83" NotebookId="1" />
-      <File FileName="UNFI/ViewModels/FeedViewModel.cs" Line="61" Column="45" NotebookId="1" />
-      <File FileName="UNFI/Views/FeedViewCell.xaml" Line="5" Column="1" NotebookId="1" />
-      <File FileName="UNFI/Views/FeedDetailsViewCell.xaml" Line="30" Column="12" NotebookId="1" />
-      <File FileName="iOS/Main.cs" Line="17" Column="1" NotebookId="1" />
-      <File FileName="UNFI/Pages/MyPostsPage.xaml.cs" Line="12" Column="1" NotebookId="1" />
-      <File FileName="UNFI/Views/MyPostsViewCell.xaml" Line="41" Column="12" NotebookId="1" />
-      <File FileName="UNFI/Views/MyPostsViewCell.xaml.cs" Line="23" Column="10" NotebookId="1" />
+      <File FileName="UNFI/Views/FeedDetailsViewCell.xaml" Line="30" Column="12" />
+      <File FileName="UNFI/Views/EventsViewCell.xaml.cs" Line="19" Column="49" />
+      <File FileName="UNFI/Views/EventsViewCell.xaml" Line="42" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" automaticSigning="False" />
