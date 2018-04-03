@@ -19,6 +19,8 @@
                             <Label
                                 Text="{Binding Rank}"
                                 TextColor="Fuchsia"
+                                FontSize="32"
+                                Margin="5,0,50,0"
                                 VerticalOptions="Center"
                                 HorizontalOptions="Center"/>
                         
@@ -27,6 +29,7 @@
                                     BorderColor="White"
                                     Aspect="AspectFill"
                                     Source="{Binding PictureUrl}"
+                                    Margin="0,5,0,0"
                                     HeightRequest="50" WidthRequest="50"
                                     HorizontalOptions="Center"
                                     VerticalOptions="Center"/>
