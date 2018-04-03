@@ -7,19 +7,25 @@
 
     <ListView
         x:Name="leaderBoardListView"
-        SeparatorVisibility="None">
+        SeparatorVisibility="Default"
+        
+        >
         <ListView.ItemTemplate>
             <DataTemplate>
                 <ViewCell>
                     <StackLayout
                         Orientation="Horizontal">
+                            <Label
+                                Text="{Binding TeamName}"
+                                TextColor="Fuchsia"/>
+                        
                               <ic:CircleImage
                                     BorderThickness="1"
                                     BorderColor="White"
                                     Margin="10,50,0,0"
                                     Aspect="AspectFill"
-                                    Source="{Binding ImageURL}"
-                                    HeightRequest="150" WidthRequest="150"
+                                    Source="{Binding PictureUrl}"
+                                    HeightRequest="40" WidthRequest="40"
                                     HorizontalOptions="Center"
                                     VerticalOptions="Center"/>
 
