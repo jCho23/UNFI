@@ -4,10 +4,13 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
     x:Class="UNFI.Pages.LeaderBoardPage">
 
+    <ListView
+        x:Name="LeaderBoardListView"
+        SeparatorVisibility="None">
 
 
 
+        
+    </ListView>
 
-
-    
 </ContentPage>
