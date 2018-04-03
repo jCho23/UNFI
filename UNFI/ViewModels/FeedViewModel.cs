@@ -74,7 +74,7 @@ namespace UNFI.ViewModels
                 },
                 new PostMessageModel
                 {
-                    PostText = "Shoutout to Jason who helped me put together a palette and load up the truck like a pro!",
+                    PostText = "Shoutout to @JasonDalomba who helped me put together a palette and load up the truck like a pro!",
                     NumberOfReplies = 48,
                     PostUser= new UserProfileModel
                     {
