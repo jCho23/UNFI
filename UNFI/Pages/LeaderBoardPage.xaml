@@ -12,6 +12,15 @@
                 <ViewCell>
                     <StackLayout
                         Orientation="Horizontal">
+                              <ic:CircleImage
+                                    BorderThickness="1"
+                                    BorderColor="White"
+                                    Margin="10,50,0,0"
+                                    Aspect="AspectFill"
+                                    Source="{Binding ImageURL}"
+                                    HeightRequest="150" WidthRequest="150"
+                                    HorizontalOptions="Center"
+                                    VerticalOptions="Center"/>
 
                         
                     </StackLayout>
