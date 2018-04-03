@@ -78,11 +78,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Include="Pages\LeaderboardPage.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Views\LeaderboardViewCell.xaml">
+    <EmbeddedResource Include="Pages\LeaderBoardPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
@@ -139,12 +135,8 @@
     <Compile Include="Views\EventsViewCell.xaml.cs">
       <DependentUpon>EventsViewCell.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Pages\LeaderboardPage.xaml.cs">
-      <DependentUpon>LeaderboardPage.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="ViewModels\LeaderboardViewModel.cs" />
-    <Compile Include="Views\LeaderboardViewCell.xaml.cs">
-      <DependentUpon>LeaderboardViewCell.xaml</DependentUpon>
+    <Compile Include="Pages\LeaderBoardPage.xaml.cs">
+      <DependentUpon>LeaderBoardPage.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

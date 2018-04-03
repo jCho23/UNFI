@@ -22,9 +22,7 @@
         Title="Shifts"
         Icon="Shifts.png" />-->
 
-     <localPages:LeaderboardPage
-        Title="LeaderBoard"
-        Icon="LeaderBoard.png" />
+  
 
     <localPages:ProfilePage
         Title= "Profile"

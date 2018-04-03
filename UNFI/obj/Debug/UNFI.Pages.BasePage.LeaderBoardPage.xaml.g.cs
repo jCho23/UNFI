@@ -8,10 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace UNFI.Pages {
+namespace UNFI.Pages.BasePage {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/june/Projects/UNFI/UNFI/Pages/LeaderBoardPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/june/Projects/UNFI/UNFI/Pages/BasePage/LeaderBoardPage.xaml")]
     public partial class LeaderBoardPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
