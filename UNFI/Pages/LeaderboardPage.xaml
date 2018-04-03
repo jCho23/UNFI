@@ -15,10 +15,17 @@
             <DataTemplate>
                 <ViewCell>
                     <StackLayout
-                        Padding="0,10,0,10"
-                        Orientation="Horizontal"
-                        HorizontalOptions="StartAndExpand">
+                        Padding="0,0,0,0"
+                        Orientation="Horizontal">
+                            <Grid
+                                VerticalOptions="Fill">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
                             <Label
+                                Grid.Column="0"
                                 Text="{Binding Rank}"
                                 TextColor="Fuchsia"
                                 FontSize="32"
@@ -27,6 +34,7 @@
                                 HorizontalOptions="Start"/>
                         
                               <ic:CircleImage
+                                    Grid.Column="1"
                                     BorderThickness="1"
                                     BorderColor="White"
                                     Aspect="AspectFill"
@@ -36,16 +44,19 @@
                                     HorizontalOptions="CenterAndExpand"
                                     VerticalOptions="CenterAndExpand"/>
                              <Label
+                                Grid.Column="1"
                                 Text="{Binding TeamName}"
                                 TextColor="Fuchsia"
                                 VerticalOptions="CenterAndExpand"
                                 HorizontalOptions="CenterAndExpand"/>
                               <Label
+                                Grid.Column="2"
                                 Text="{Binding Points}"
                                 Margin="0,0,0,0"
                                 TextColor="Fuchsia"
                                 VerticalOptions="End"
                                 HorizontalOptions="End"/>
+                        </Grid>
                     </StackLayout>
                 </ViewCell>
             </DataTemplate>
