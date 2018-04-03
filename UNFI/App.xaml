@@ -19,7 +19,7 @@
             <Style
                 TargetType= "Label">
                     <Setter Property="TextColor" Value="White" />
-                    <Setter Property="FontFamily" Value="BebasNeue-Regular"/>
+                    <Setter Property="FontFamily" Value="Walkway_rounded"/>
                     <Setter Property="BackgroundColor" Value="Transparent"/>
             </Style>
 
