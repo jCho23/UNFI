@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using UNFI.Models;
+
 using Xamarin.Forms;
+
+using UNFI.Models;
 
 namespace UNFI.Pages
 {
@@ -31,7 +33,6 @@ namespace UNFI.Pages
                 new LeaderBoardModel {Rank = "17", Points= "230", TeamName = "Jordan", PictureUrl = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Air-Jordan-Logo-wallpapers-620x465.jpg"},
                 new LeaderBoardModel {Rank = "18", Points= "230", TeamName = "Jordan", PictureUrl = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Air-Jordan-Logo-wallpapers-620x465.jpg"},
                 new LeaderBoardModel {Rank = "19", Points= "230", TeamName = "Jordan", PictureUrl = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Air-Jordan-Logo-wallpapers-620x465.jpg"}
-
             };
         }
     }
