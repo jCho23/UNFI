@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/LeaderBoardPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/App.xaml">
     <Files>
       <File FileName="UNFI/Pages/FeedDetailsPage.xaml.cs" Line="18" Column="1" />
       <File FileName="UNFI/Pages/FeedPage.xaml" Line="56" Column="15" />
       <File FileName="UNFI/obj/Debug/UNFI.Pages.BasePage.UNFITabbedPage.xaml.g.cs" Line="19" Column="1" />
       <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="95" Column="41" />
       <File FileName="UNFI/Pages/BasePage/UNFITabbedPage.xaml" Line="28" Column="25" />
-      <File FileName="UNFI/Pages/LeaderBoardPage.xaml" Line="17" Column="33" />
-      <File FileName="UNFI/Pages/LeaderBoardPage.xaml.cs" Line="14" Column="26" />
+      <File FileName="UNFI/Pages/LeaderBoardPage.xaml" Line="23" Column="47" />
+      <File FileName="UNFI/Pages/LeaderBoardPage.xaml.cs" Line="18" Column="6" />
       <File FileName="UNFI/Models/LeaderBoardModel.cs" Line="6" Column="22" />
       <File FileName="UNFI/Models/PostMessageModel.cs" Line="1" Column="1" />
       <File FileName="UNFI/Models/UserProfileModel.cs" Line="7" Column="9" />
@@ -18,6 +18,10 @@
       <File FileName="UNFI/Pages/ProfilePage.xaml" Line="5" Column="13" />
       <File FileName="UNFI/ViewModels/BaseViewModel.cs" Line="1" Column="1" />
       <File FileName="UNFI/ViewModels/EventsViewModel.cs" Line="20" Column="36" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="UNFI/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="UNFI/App.xaml" Line="29" Column="65" />
+      <File FileName="UNFI/Pages/EventsPage.xaml" Line="26" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" automaticSigning="False" />

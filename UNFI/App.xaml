@@ -19,7 +19,7 @@
             <Style
                 TargetType= "Label">
                     <Setter Property="TextColor" Value="White" />
-                    <Setter Property="FontFamily" Value="LANENAR_"/>
+                    <Setter Property="FontFamily" Value="BebasNeue-Regular"/>
                     <Setter Property="BackgroundColor" Value="Transparent"/>
             </Style>
 
