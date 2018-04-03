@@ -9,12 +9,17 @@
         SeparatorVisibility="None">
         <ListView.ItemTemplate>
             <DataTemplate>
-                <Textcell
-                    Text= "{Binding TeamName}"
-                  />
+                <ViewCell>
+                    <StackLayout
+                        Orientation="Horizontal">
+
+                        
+                    </StackLayout>
 
 
-                
+
+                    
+                </ViewCell>
             </DataTemplate>
         </ListView.ItemTemplate>
     </ListView>
