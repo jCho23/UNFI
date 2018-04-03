@@ -138,6 +138,7 @@
     <Compile Include="Pages\LeaderBoardPage.xaml.cs">
       <DependentUpon>LeaderBoardPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Models\LeaderboardModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
