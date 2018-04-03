@@ -6,9 +6,6 @@
     x:Class="UNFI.Pages.LeaderBoardPage"
     Title="LeaderBoard">
 
-    <Label
-                                Text="LeaderBoard"
-                                TextColor="Fuchsia"/>
     <ListView
         x:Name="leaderBoardListView"
         SeparatorVisibility="None"
