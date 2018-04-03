@@ -12,7 +12,7 @@ namespace UNFI.Pages
             InitializeComponent();
 
             leaderBoardListView.ItemsSource = new List<LeaderBoardModel>{
-                new LeaderBoardModel {TeamName = "Jordan", PictureUrl = "https://www.pixelstalk.net/jordan-logo-wallpaper-hd/#/lightbox&slide=1"}
+                new LeaderBoardModel {TeamName = "Jordan", PictureUrl = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Air-Jordan-Logo-wallpapers-620x465.jpg"}
             };
         }
     }
