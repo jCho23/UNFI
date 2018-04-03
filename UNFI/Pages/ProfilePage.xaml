@@ -94,6 +94,7 @@
                     Grid.Row="2"
                     Grid.Column="0"
                     Text= "Badges:" 
+                    FontSize="23"
                     Margin="5,0,0,0"
                     FontFamily="BebasNeue-Regular"/>
                 <ic:CircleImage
