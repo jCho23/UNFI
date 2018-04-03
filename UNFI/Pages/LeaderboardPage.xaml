@@ -38,6 +38,11 @@
                                 TextColor="Fuchsia"
                                 VerticalOptions="Center"
                                 HorizontalOptions="Center"/>
+                              <Label
+                                Text="{Binding Points}"
+                                TextColor="Fuchsia"
+                                VerticalOptions="Center"
+                                HorizontalOptions="Center"/>
 
                         
                     </StackLayout>
