@@ -7,7 +7,7 @@
     Title="UNFI">
 
     <localPages:FeedPage
-        Title="Feed"
+        Title="UNFI"
         Icon="Apple.png" />
 
     <localPages:MyPostsPage

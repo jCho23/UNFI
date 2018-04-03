@@ -18,8 +18,15 @@ namespace UNFI.Pages.BasePage
                 case Xamarin.Forms.Device.Android:
                     break;
             }
+
+
+            CurrentPageChanged += Handle_CurrentPageChanged;
         }
 
+        void Handle_CurrentPageChanged(object sender, EventArgs e)
+        {
+            Title = CurrentPage?.Title ?? "UNFI";
+        }
 
     }
 }

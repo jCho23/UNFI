@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/ShiftsPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/BasePage/UNFITabbedPage.xaml.cs">
     <Files>
       <File FileName="UNFI/Pages/FeedDetailsPage.xaml.cs" Line="18" Column="1" />
       <File FileName="UNFI/Pages/FeedPage.xaml" Line="56" Column="15" />
       <File FileName="UNFI/obj/Debug/UNFI.Pages.BasePage.UNFITabbedPage.xaml.g.cs" Line="1" Column="1" />
       <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="5" Column="16" />
-      <File FileName="UNFI/Pages/BasePage/UNFITabbedPage.xaml" Line="23" Column="21" />
+      <File FileName="UNFI/Pages/BasePage/UNFITabbedPage.xaml" Line="7" Column="16" />
       <File FileName="UNFI/Pages/LeaderBoardPage.xaml" Line="51" Column="37" />
       <File FileName="UNFI/Pages/LeaderBoardPage.xaml.cs" Line="8" Column="1" />
       <File FileName="UNFI/Models/LeaderBoardModel.cs" Line="9" Column="47" />
@@ -15,7 +15,7 @@
       <File FileName="UNFI/ViewModels/FeedDetailsViewModel.cs" Line="19" Column="49" />
       <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml" Line="65" Column="15" />
       <File FileName="UNFI/Pages/MyPostsPage.xaml" Line="34" Column="1" />
-      <File FileName="UNFI/Pages/ProfilePage.xaml" Line="5" Column="13" />
+      <File FileName="UNFI/Pages/ProfilePage.xaml" Line="97" Column="33" />
       <File FileName="UNFI/ViewModels/BaseViewModel.cs" Line="1" Column="1" />
       <File FileName="UNFI/ViewModels/EventsViewModel.cs" Line="20" Column="36" />
       <File FileName="iOS/Info.plist" />
@@ -24,6 +24,7 @@
       <File FileName="iOS/Main.cs" Line="17" Column="1" />
       <File FileName="UNFI/ViewModels/FeedViewModel.cs" Line="77" Column="57" />
       <File FileName="UNFI/Pages/ShiftsPage.xaml" Line="15" Column="1" />
+      <File FileName="UNFI/Pages/BasePage/UNFITabbedPage.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -32,14 +33,22 @@
             <Node name="UNFI" expanded="True">
               <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
-                <Node name="BasePage" expanded="True" />
+                <Node name="BasePage" expanded="True">
+                  <Node name="UNFITabbedPage.xaml" expanded="True">
+                    <Node name="UNFITabbedPage.xaml.cs" selected="True" />
+                  </Node>
+                </Node>
                 <Node name="FeedDetailsPage.xaml" expanded="True" />
                 <Node name="LeaderBoardPage.xaml" expanded="True" />
-                <Node name="ShiftsPage.xaml" expanded="True" selected="True" />
+                <Node name="ProfilePage.xaml" expanded="True" />
+                <Node name="ShiftsPage.xaml" expanded="True" />
               </Node>
               <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True" />
               <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="UNFI.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
             </Node>
           </Node>
         </State>

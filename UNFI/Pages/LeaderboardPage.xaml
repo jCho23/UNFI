@@ -15,15 +15,6 @@
         </xfg:Gradient>
     </xfg:ContentPageGloss.BackgroundGradient>
 
-    <StackLayout>
-        <Label
-            Text="LeaderBoard"
-            FontSize="23"
-            TextColor="Black"
-            VerticalOptions="Center"
-            HorizontalOptions="Center"
-            FontFamily="BebasNeue-Regular"/>
- 
     <ListView
         x:Name="leaderBoardListView"
         SeparatorVisibility="None"
@@ -81,5 +72,4 @@
             </DataTemplate>
         </ListView.ItemTemplate>
     </ListView>
-    </StackLayout>
 </ContentPage>
