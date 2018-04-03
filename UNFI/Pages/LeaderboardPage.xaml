@@ -7,7 +7,8 @@
 
     <ListView
         x:Name="leaderBoardListView"
-        SeparatorVisibility="Default"
+        SeparatorVisibility="None"
+       
         
         >
         <ListView.ItemTemplate>
@@ -16,18 +17,24 @@
                     <StackLayout
                         Orientation="Horizontal">
                             <Label
-                                Text="{Binding TeamName}"
-                                TextColor="Fuchsia"/>
+                                Text="{Binding Rank}"
+                                TextColor="Fuchsia"
+                                VerticalOptions="Center"
+                                HorizontalOptions="Center"/>
                         
                               <ic:CircleImage
                                     BorderThickness="1"
                                     BorderColor="White"
-                                    Margin="10,50,0,0"
                                     Aspect="AspectFill"
                                     Source="{Binding PictureUrl}"
-                                    HeightRequest="40" WidthRequest="40"
+                                    HeightRequest="50" WidthRequest="50"
                                     HorizontalOptions="Center"
                                     VerticalOptions="Center"/>
+                             <Label
+                                Text="{Binding TeamName}"
+                                TextColor="Fuchsia"
+                                VerticalOptions="Center"
+                                HorizontalOptions="Center"/>
 
                         
                     </StackLayout>
