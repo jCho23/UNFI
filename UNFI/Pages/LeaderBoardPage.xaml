@@ -5,12 +5,18 @@
     x:Class="UNFI.Pages.LeaderBoardPage">
 
     <ListView
-        x:Name="LeaderBoardListView"
+        x:Name="leaderBoardListView"
         SeparatorVisibility="None">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <Textcell
+                    Text= "{Binding TeamName}"
+                  />
 
 
-
-        
+                
+            </DataTemplate>
+        </ListView.ItemTemplate>
     </ListView>
 
 </ContentPage>

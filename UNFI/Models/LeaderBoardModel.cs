@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Diagnostics.Contracts;
 namespace UNFI.Models
 {
-    public class LeaderboardModel
+    public class LeaderBoardModel
     {
         public string ID { get; set; }
         public string TeamName { get; set; }
