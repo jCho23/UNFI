@@ -6,6 +6,9 @@
     x:Class="UNFI.Pages.LeaderBoardPage"
     Title="LeaderBoard">
 
+    <Label
+                                Text="LeaderBoard"
+                                TextColor="Fuchsia"/>
     <ListView
         x:Name="leaderBoardListView"
         SeparatorVisibility="None"
@@ -15,13 +18,15 @@
             <DataTemplate>
                 <ViewCell>
                     <StackLayout
-                        Padding="0,0,0,0"
+                        Padding="10"
                         Orientation="Horizontal">
+
                             <Grid
                                 VerticalOptions="Fill">
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="*"/>
                                     <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="80"/>
                                     <ColumnDefinition Width="*"/>
                                 </Grid.ColumnDefinitions>
                             <Label
@@ -39,23 +44,24 @@
                                     BorderColor="White"
                                     Aspect="AspectFill"
                                     Source="{Binding PictureUrl}"
-                                    Margin="0,0,0,0"
+                                    Margin="30,0,0,0"
                                     HeightRequest="40" WidthRequest="40"
-                                    HorizontalOptions="CenterAndExpand"
-                                    VerticalOptions="CenterAndExpand"/>
+                                    HorizontalOptions="Center"
+                                    VerticalOptions="Center"/>
                              <Label
-                                Grid.Column="1"
+                                Grid.Column="2"
                                 Text="{Binding TeamName}"
+                                Margin="0,0,0,0"
+                                TextColor="Fuchsia"
+                                VerticalOptions="Center"
+                                HorizontalOptions="Center"/>
+                              <Label
+                                Grid.Column="3"
+                                Text="{Binding Points}"
+                                Margin="50,0,0,0"
                                 TextColor="Fuchsia"
                                 VerticalOptions="CenterAndExpand"
                                 HorizontalOptions="CenterAndExpand"/>
-                              <Label
-                                Grid.Column="2"
-                                Text="{Binding Points}"
-                                Margin="0,0,0,0"
-                                TextColor="Fuchsia"
-                                VerticalOptions="End"
-                                HorizontalOptions="End"/>
                         </Grid>
                     </StackLayout>
                 </ViewCell>
