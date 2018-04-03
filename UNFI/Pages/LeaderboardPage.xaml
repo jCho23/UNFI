@@ -9,11 +9,13 @@
     <ListView
         x:Name="leaderBoardListView"
         SeparatorVisibility="None"
-        HasUnevenRows="true">
+        HasUnevenRows="true"
+        >
         <ListView.ItemTemplate>
             <DataTemplate>
                 <ViewCell>
                     <StackLayout
+                        Padding="0,10,0,10"
                         Orientation="Horizontal"
                         HorizontalOptions="StartAndExpand">
                             <Label
@@ -42,8 +44,8 @@
                                 Text="{Binding Points}"
                                 Margin="0,0,0,0"
                                 TextColor="Fuchsia"
-                                VerticalOptions="EndAndExpand"
-                                HorizontalOptions="EndAndExpand"/>
+                                VerticalOptions="End"
+                                HorizontalOptions="End"/>
                     </StackLayout>
                 </ViewCell>
             </DataTemplate>
