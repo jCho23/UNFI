@@ -7,10 +7,7 @@
 
     <ListView
         x:Name="leaderBoardListView"
-        SeparatorVisibility="None"
-       
-        
-        >
+        SeparatorVisibility="None">
         <ListView.ItemTemplate>
             <DataTemplate>
                 <ViewCell>
@@ -20,7 +17,7 @@
                                 Text="{Binding Rank}"
                                 TextColor="Fuchsia"
                                 FontSize="32"
-                                Margin="5,0,50,0"
+                                Margin="5,0,80,0"
                                 VerticalOptions="Center"
                                 HorizontalOptions="Center"/>
                         
@@ -30,7 +27,7 @@
                                     Aspect="AspectFill"
                                     Source="{Binding PictureUrl}"
                                     Margin="0,5,0,0"
-                                    HeightRequest="50" WidthRequest="50"
+                                    HeightRequest="40" WidthRequest="40"
                                     HorizontalOptions="Center"
                                     VerticalOptions="Center"/>
                              <Label
@@ -40,16 +37,11 @@
                                 HorizontalOptions="Center"/>
                               <Label
                                 Text="{Binding Points}"
+                                Margin="100,0,0,0"
                                 TextColor="Fuchsia"
                                 VerticalOptions="Center"
                                 HorizontalOptions="Center"/>
-
-                        
                     </StackLayout>
-
-
-
-                    
                 </ViewCell>
             </DataTemplate>
         </ListView.ItemTemplate>
