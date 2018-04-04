@@ -11,7 +11,7 @@ namespace UNFI.ViewModels
 {
     public class FeedViewModel : BaseViewModel
     {
-        string numberOfReplies;
+        string postUserProfileUrl, postUserPostText, postUserName, numberOfReplies;
 
         ICommand refreshCommand;
 
@@ -174,6 +174,17 @@ namespace UNFI.ViewModels
             }
         }
 
+        public string PostUserPostText
+        {
+            get => postUserPostText;
+            set => SetProperty(ref postUserPostText, value);
+        }
+
+        public string PostUserProfileUrl
+        {
+            get => postUserProfileUrl;
+            set => SetProperty(ref postUserProfileUrl, value);
+        }
 
         public string NumberOfReplies
         {

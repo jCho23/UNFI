@@ -1,11 +1,16 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Views/EventsViewCell.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/ViewModels/FeedDetailsViewModel.cs">
     <Files>
       <File FileName="UNFI/Pages/TipsVideoPage.xaml" Line="7" Column="5" />
       <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="109" Column="15" />
       <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml" Line="65" Column="15" />
       <File FileName="UNFI/Pages/EventsPage.xaml" Line="43" Column="1" />
-      <File FileName="UNFI/Views/EventsViewCell.xaml" Line="42" Column="1" />
+      <File FileName="UNFI/Views/EventsViewCell.xaml" Line="33" Column="61" />
+      <File FileName="UNFI/Pages/FeedPage.xaml" Line="56" Column="15" />
+      <File FileName="UNFI/ViewModels/FeedDetailsViewModel.cs" Line="135" Column="1" />
+      <File FileName="UNFI/ViewModels/EventsViewModel.cs" Line="1" Column="1" />
+      <File FileName="UNFI/Pages/MyPostsPage.xaml" Line="34" Column="1" />
+      <File FileName="UNFI/ViewModels/FeedViewModel.cs" Line="1" Column="1" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" automaticSigning="False" />
