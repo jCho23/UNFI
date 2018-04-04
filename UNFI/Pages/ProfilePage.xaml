@@ -19,7 +19,7 @@
         <ic:CircleImage
             BorderThickness="1"
             BorderColor="White"
-            Margin="10,50,0,0"
+            Margin="10,70,0,0"
             Aspect="AspectFill"
             Source="theRock.jpg"
             HeightRequest="150" WidthRequest="150"
@@ -30,6 +30,7 @@
             TextColor="Black"
             FontSize="32" 
             Margin="0,0,0,0"
+            FontFamily="BebasNeue-Regular"
             HorizontalOptions="Center"
             VerticalOptions="Center"/>
           <Label
@@ -67,7 +68,7 @@
                 <Label
                     Grid.Row="0"
                     Grid.Column="0"
-                    Text="10"
+                    Text="8"
                     FontSize="35"
                     Margin="0,30,0,0"
                     VerticalOptions="Center"
@@ -76,9 +77,10 @@
                     Grid.Row="1"
                     Grid.Column="0"
                     Text="Points"
+                    FontFamily="BebasNeue-Regular"
                     FontSize="23"
                     TextColor="Black"
-                    Margin="0,-40,0,0"
+                    Margin="0,-30,0,0"
                     VerticalOptions="Center"
                     HorizontalOptions="Center"/>
                 <Label
@@ -93,8 +95,9 @@
                     Grid.Row="1"
                     Grid.Column="1"
                     Text="Rating"
+                    FontFamily="BebasNeue-Regular"
                     VerticalOptions="Center"
-                    Margin="0,-40,0,0"
+                    Margin="0,-30,0,0"
                     HorizontalOptions="Center"
                     FontSize="23"
                     TextColor="Black"/>
