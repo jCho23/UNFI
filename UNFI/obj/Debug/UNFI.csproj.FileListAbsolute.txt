@@ -16,7 +16,6 @@
 /Users/june/Projects/UNFI/UNFI/bin/Debug/XFGloss.xml
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.csproj.CoreCompileInputs.cache
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.App.xaml.g.cs
-/Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.UNFIPage.xaml.g.cs
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.Pages.FeedPage.xaml.g.cs
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.Views.FeedViewCell.xaml.g.cs
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.Pages.FeedDetailsPage.xaml.g.cs
