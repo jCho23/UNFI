@@ -14,5 +14,10 @@ namespace UNFI.Pages
 
             InitializeComponent();
         }
+
+        void Handle_Activated(object sender, System.EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
