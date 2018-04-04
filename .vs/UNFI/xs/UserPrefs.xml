@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Views/EventsViewCell.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/BasePage/UNFITabbedPage.xaml">
     <Files>
       <File FileName="UNFI/Pages/TipsVideoPage.xaml" Line="7" Column="5" />
       <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="109" Column="15" />
       <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml" Line="65" Column="15" />
-      <File FileName="UNFI/Pages/EventsPage.xaml" Line="43" Column="1" />
-      <File FileName="UNFI/Views/EventsViewCell.xaml" Line="19" Column="44" />
+      <File FileName="UNFI/Pages/EventsPage.xaml" Line="13" Column="42" />
+      <File FileName="UNFI/Views/EventsViewCell.xaml" Line="20" Column="45" />
       <File FileName="UNFI/Pages/FeedPage.xaml" Line="56" Column="15" />
       <File FileName="UNFI/ViewModels/FeedDetailsViewModel.cs" Line="103" Column="8" />
       <File FileName="UNFI/ViewModels/EventsViewModel.cs" Line="76" Column="18" />
@@ -15,6 +15,9 @@
       <File FileName="UNFI/Models/PostMessageModel.cs" Line="9" Column="45" />
       <File FileName="UNFI/Pages/EventsPage.xaml.cs" Line="1" Column="1" />
       <File FileName="UNFI/Views/MyPostsViewCell.xaml" Line="41" Column="12" />
+      <File FileName="UNFI/Pages/BasePage/UNFITabbedPage.xaml.cs" Line="12" Column="1" />
+      <File FileName="UNFI/Pages/BasePage/UNFITabbedPage.xaml" Line="33" Column="14" />
+      <File FileName="UNFI/App.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,7 +27,7 @@
               <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="BasePage" expanded="True">
-                  <Node name="UNFITabbedPage.xaml" expanded="True" />
+                  <Node name="UNFITabbedPage.xaml" expanded="True" selected="True" />
                 </Node>
                 <Node name="EventsPage.xaml" expanded="True" />
                 <Node name="FeedDetailsPage.xaml" expanded="True" />
@@ -32,10 +35,10 @@
               </Node>
               <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="EventsViewCell.xaml" selected="True" />
                 <Node name="FeedDetailsViewCell.xaml" expanded="True" />
                 <Node name="FeedViewCell.xaml" expanded="True" />
               </Node>
+              <Node name="App.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
