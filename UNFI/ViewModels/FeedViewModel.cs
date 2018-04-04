@@ -37,16 +37,16 @@ namespace UNFI.ViewModels
         List<PostMessageModel> originalMessages = new List<PostMessageModel>();
         ObservableCollection<PostMessageModel> feedListViewItemSource = new ObservableCollection<PostMessageModel>();
 
-        public FeedViewModel(PostMessageModel postMessage)
+        public FeedViewModel()
         {
-            PostUserProfileUrl = postMessage.PostUser.PictureUrl;
-            PostUserName = postMessage.PostUser.Name;
-            PostUserPostText = postMessage.PostText;
+            //PostUserProfileUrl = postMessage.PostUser.PictureUrl;
+            //PostUserName = postMessage.PostUser.Name;
+            //PostUserPostText = postMessage.PostText;
 
-            if (postMessage.NumberOfReplies == 1)
-                NumberOfReplies = $"{postMessage.NumberOfReplies} Reply";
-            else
-            NumberOfReplies = $"{postMessage.NumberOfReplies} Replies";
+            //if (postMessage.NumberOfReplies == 1)
+            //    NumberOfReplies = $"{postMessage.NumberOfReplies} Reply";
+            //else
+            //NumberOfReplies = $"{postMessage.NumberOfReplies} Replies";
 
 
 

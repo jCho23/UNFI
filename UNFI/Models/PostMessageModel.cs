@@ -9,5 +9,6 @@ namespace UNFI.Models
         public string PostText { get; set; }
         public int NumberOfLikes { get; set; }
         public int NumberOfReplies { get; set; }
+        public string Replies { get; set; }
     }
 }

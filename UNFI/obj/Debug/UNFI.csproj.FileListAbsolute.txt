@@ -30,6 +30,6 @@
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.Pages.ShiftsPage.xaml.g.cs
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.Views.EventsViewCell.xaml.g.cs
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.Pages.LeaderBoardPage.xaml.g.cs
+/Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.Pages.TipsVideoPage.xaml.g.cs
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.dll
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.pdb
-/Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.Pages.TipsVideoPage.xaml.g.cs
