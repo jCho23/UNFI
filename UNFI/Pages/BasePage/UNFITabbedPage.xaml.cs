@@ -19,7 +19,6 @@ namespace UNFI.Pages.BasePage
                     break;
             }
 
-
             CurrentPageChanged += Handle_CurrentPageChanged;
         }
 

@@ -54,7 +54,8 @@
             <Frame
                 Grid.RowSpan="2"
                 Grid.ColumnSpan="2"
-                BackgroundColor="Silver">
+                BackgroundColor="Silver"
+                Opacity=".60">
             </Frame>
                 <Label
                     Grid.Row="0"
