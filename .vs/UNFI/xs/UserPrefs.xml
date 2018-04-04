@@ -1,37 +1,7 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/ProfilePage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/TipsVideoPage.xaml">
     <Files>
-      <File FileName="UNFI/Pages/FeedDetailsPage.xaml.cs" Line="18" Column="1" />
-      <File FileName="UNFI/Pages/FeedPage.xaml" Line="19" Column="1" />
-      <File FileName="UNFI/obj/Debug/UNFI.Pages.BasePage.UNFITabbedPage.xaml.g.cs" Line="1" Column="1" />
-      <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="62" Column="29" />
-      <File FileName="UNFI/Pages/BasePage/UNFITabbedPage.xaml" Line="11" Column="28" />
-      <File FileName="UNFI/Pages/LeaderBoardPage.xaml" Line="8" Column="23" />
-      <File FileName="UNFI/Pages/LeaderBoardPage.xaml.cs" Line="15" Column="13" />
-      <File FileName="UNFI/Models/LeaderBoardModel.cs" Line="9" Column="47" />
-      <File FileName="UNFI/Models/PostMessageModel.cs" Line="1" Column="1" />
-      <File FileName="UNFI/Models/UserProfileModel.cs" Line="7" Column="9" />
-      <File FileName="UNFI/Models/ReplyMessageModel.cs" Line="1" Column="1" />
-      <File FileName="UNFI/ViewModels/FeedDetailsViewModel.cs" Line="19" Column="49" />
-      <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml" Line="5" Column="37" />
-      <File FileName="UNFI/Pages/MyPostsPage.xaml" Line="34" Column="1" />
-      <File FileName="UNFI/Pages/ProfilePage.xaml" Line="58" Column="1" />
-      <File FileName="UNFI/ViewModels/BaseViewModel.cs" Line="1" Column="1" />
-      <File FileName="UNFI/ViewModels/EventsViewModel.cs" Line="20" Column="36" />
-      <File FileName="iOS/Info.plist" />
-      <File FileName="UNFI/App.xaml.cs" Line="15" Column="27" />
-      <File FileName="UNFI/Pages/EventsPage.xaml" Line="7" Column="1" />
-      <File FileName="iOS/Main.cs" Line="17" Column="1" />
-      <File FileName="UNFI/ViewModels/FeedViewModel.cs" Line="77" Column="57" />
-      <File FileName="UNFI/Pages/ShiftsPage.xaml" Line="15" Column="1" />
-      <File FileName="UNFI/Pages/BasePage/UNFITabbedPage.xaml.cs" Line="31" Column="2" />
-      <File FileName="UNFI/Pages/TipsVideoPage.xaml" Line="7" Column="5" />
-      <File FileName="UNFI/Pages/TipsVideoPage.xaml.cs" Line="8" Column="31" />
-      <File FileName="UNFI/Pages/EventsPage.xaml.cs" Line="24" Column="1" />
-      <File FileName="UNFI/Views/EventsViewCell.xaml" Line="10" Column="25" />
-      <File FileName="UNFI/Views/FeedDetailsViewCell.xaml" Line="6" Column="1" />
-      <File FileName="UNFI/App.xaml" Line="19" Column="19" />
-      <File FileName="UNFI/Pages/ProfilePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="UNFI/Pages/TipsVideoPage.xaml" Line="16" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -39,12 +9,8 @@
           <Node name="UNFI" expanded="True">
             <Node name="UNFI" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="EventsPage.xaml" expanded="True" />
-                <Node name="ProfilePage.xaml" expanded="True" selected="True" />
-                <Node name="TipsVideoPage.xaml" expanded="True" />
+                <Node name="TipsVideoPage.xaml" selected="True" />
               </Node>
-              <Node name="ViewModels" expanded="True" />
-              <Node name="Views" expanded="True" />
             </Node>
           </Node>
         </State>
