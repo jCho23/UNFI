@@ -16,8 +16,8 @@
                     HorizontalOptions="Start">
                         <ic:CircleImage
                             x:Name = "UserProfilePicture"
-                            WidthRequest="50"
-                            HeightRequest="50"
+                            WidthRequest="80"
+                            HeightRequest="80"
                             Aspect="AspectFill"
                             BorderColor="Gray"
                             BorderThickness="2" />
