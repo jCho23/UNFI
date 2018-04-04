@@ -75,7 +75,7 @@ namespace UNFI.ViewModels
                 new PostMessageModel
                 {
                     PostText = "Shoutout to @JasonDalomba who helped me put together a palette and load up the truck like a pro!",
-                    NumberOfReplies = 48,
+                    Replies = "Replies: 18",
                     PostUser= new UserProfileModel
                     {
                         Name = "The Rock",
@@ -85,7 +85,7 @@ namespace UNFI.ViewModels
                 new PostMessageModel
                 {
                     PostText = "Everything around you that you call life was made up by people that were no smarter than you",
-                    NumberOfReplies = 8,
+                    Replies = "Replies: 16",
                     PostUser= new UserProfileModel
                     {
                         Name = "Kylie Jenner",
@@ -95,7 +95,7 @@ namespace UNFI.ViewModels
                 new PostMessageModel
                 {
                     PostText = "Everything around you that you call life was made up by people that were no smarter than you",
-                    NumberOfReplies = 8,
+                    Replies = "Replies: 32",
                     PostUser= new UserProfileModel
                     {
                         Name = "Kevin Hart",
@@ -105,7 +105,7 @@ namespace UNFI.ViewModels
                 new PostMessageModel
                 {
                     PostText = "Everything around you that you call life was made up by people that were no smarter than you",
-                    NumberOfReplies = 8,
+                    Replies = "Replies: 8",
                     PostUser= new UserProfileModel
                     {
                         Name = "Michael Jordan",
