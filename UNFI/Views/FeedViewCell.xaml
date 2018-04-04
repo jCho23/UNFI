@@ -43,7 +43,8 @@
                                     Grid.Row="1" Grid.Column="2"
                                     FontSize="8"
                                     TextColor="Black"
-                                    Text="{Binding NumberOfReplies}"
+                                    Margin="30,0,-15,0"
+                                    Text="{Binding Replies}"
                                     HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
                                 <Image
                                     Grid.Row="1" Grid.Column="1"

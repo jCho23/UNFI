@@ -13,6 +13,9 @@ namespace UNFI.Pages
             this.BindingContext = myPostsViewModel;
 
             InitializeComponent();
+
+            Application.Current.Resources["BackgroundColor"] = Color.Black;
+
         }
 
         void Handle_Activated(object sender, System.EventArgs e)
