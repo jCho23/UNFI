@@ -31,7 +31,7 @@
                                             x:Name="PostNumberOfRepliesLabel"
                                             FontSize="10"
                                             TextColor="Black"
-                                            Text="{Binding NumberOfReplies}"
+                                            Text="{Binding Replies}"
                                             HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand" />
                                 </StackLayout>
                 </StackLayout>                       
