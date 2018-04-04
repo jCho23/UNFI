@@ -36,7 +36,7 @@
             Text="Selector"
             TextColor="White"
             FontSize="23" 
-            Margin="0,-10,0,50"
+            Margin="0,-10,0,10"
             HorizontalOptions="Center"
             VerticalOptions="Center"/>
             <Grid
