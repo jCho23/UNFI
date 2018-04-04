@@ -16,11 +16,11 @@
                     HorizontalOptions="Start">
                         <ic:CircleImage
                             x:Name = "UserProfilePicture"
-                            WidthRequest="80"
-                            HeightRequest="80"
+                            WidthRequest="50"
+                            HeightRequest="50"
                             Aspect="AspectFill"
                             BorderColor="Gray"
-                            BorderThickness="1" />
+                            BorderThickness="2" />
                                 <StackLayout
                                     Padding="5">
                                         <Label
