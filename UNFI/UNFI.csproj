@@ -82,6 +82,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="Pages\TipsVideoPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -139,6 +143,9 @@
       <DependentUpon>LeaderBoardPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Models\LeaderBoardModel.cs" />
+    <Compile Include="Pages\TipsVideoPage.xaml.cs">
+      <DependentUpon>TipsVideoPage.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
