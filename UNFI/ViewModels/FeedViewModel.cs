@@ -65,7 +65,7 @@ namespace UNFI.ViewModels
                 new PostMessageModel
                 {
                     PostText = "Potluck this Friday for lunch! I'm bringing home-cooked ribs, anyone else in? ",
-                    NumberOfReplies = 8,
+                    Replies = "Replies: 24",
                     PostUser= new UserProfileModel
                     {
                         Name = "Suzanne Jenner",
