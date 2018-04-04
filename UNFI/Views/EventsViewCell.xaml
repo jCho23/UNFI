@@ -30,7 +30,7 @@
                                         <Label
                                             x:Name="PostNumberOfRepliesLabel"
                                             FontSize="10"
-                                            TextColor="Silver"
+                                            TextColor="Black"
                                             Text="{Binding NumberOfReplies}"
                                             HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand" />
                                 </StackLayout>

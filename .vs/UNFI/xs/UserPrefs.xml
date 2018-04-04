@@ -1,21 +1,12 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/TipsVideoPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Views/EventsViewCell.xaml">
     <Files>
-      <File FileName="UNFI/Pages/TipsVideoPage.xaml" Line="16" Column="1" />
+      <File FileName="UNFI/Pages/TipsVideoPage.xaml" Line="7" Column="5" />
+      <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="109" Column="15" />
+      <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml" Line="65" Column="15" />
+      <File FileName="UNFI/Pages/EventsPage.xaml" Line="43" Column="1" />
+      <File FileName="UNFI/Views/EventsViewCell.xaml" Line="42" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="UNFI" expanded="True">
-            <Node name="UNFI" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="TipsVideoPage.xaml" selected="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" automaticSigning="False" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
