@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/TipsVideoPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/App.xaml">
     <Files>
       <File FileName="UNFI/Pages/FeedDetailsPage.xaml.cs" Line="18" Column="1" />
       <File FileName="UNFI/Pages/FeedPage.xaml" Line="10" Column="5" />
@@ -25,8 +25,12 @@
       <File FileName="UNFI/ViewModels/FeedViewModel.cs" Line="77" Column="57" />
       <File FileName="UNFI/Pages/ShiftsPage.xaml" Line="15" Column="1" />
       <File FileName="UNFI/Pages/BasePage/UNFITabbedPage.xaml.cs" Line="31" Column="2" />
-      <File FileName="UNFI/Pages/TipsVideoPage.xaml" Line="6" Column="1" />
+      <File FileName="UNFI/Pages/TipsVideoPage.xaml" Line="7" Column="5" />
       <File FileName="UNFI/Pages/TipsVideoPage.xaml.cs" Line="8" Column="31" />
+      <File FileName="UNFI/Pages/EventsPage.xaml.cs" Line="19" Column="1" />
+      <File FileName="UNFI/Views/EventsViewCell.xaml" Line="10" Column="25" />
+      <File FileName="UNFI/Views/FeedDetailsViewCell.xaml" Line="6" Column="1" />
+      <File FileName="UNFI/App.xaml" Line="19" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -34,11 +38,13 @@
           <Node name="UNFI" expanded="True">
             <Node name="UNFI" expanded="True">
               <Node name="Pages" expanded="True">
+                <Node name="EventsPage.xaml" expanded="True" />
                 <Node name="ProfilePage.xaml" expanded="True" />
-                <Node name="TipsVideoPage.xaml" expanded="True">
-                  <Node name="TipsVideoPage.xaml.cs" selected="True" />
-                </Node>
+                <Node name="TipsVideoPage.xaml" expanded="True" />
               </Node>
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="App.xaml" selected="True" />
             </Node>
           </Node>
         </State>
