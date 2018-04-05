@@ -58,10 +58,10 @@
                                
                                 <Label
                                     Grid.Row= "1" Grid.Column="1"
-                                    Text="Building 23"
+                                    Text="Building: 32"
                                     FontSize="8"
                                     TextColor="Black"
-                                    Margin="30,10,0,0"
+                                    Margin="20,10,0,0"
                                     HorizontalOptions="Center" VerticalOptions="Center"/>
                         </Grid>                 
                     </StackLayout>
