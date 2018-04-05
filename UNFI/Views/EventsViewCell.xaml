@@ -45,7 +45,7 @@
                                     Grid.Row="1" Grid.Column="2"
                                     FontSize="8"
                                     TextColor="Black"
-                                    Margin="30,0,-10,0"
+                                    Margin="20,0,-10,0"
                                     Text="{Binding Replies}"
                                     HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
 
@@ -60,7 +60,7 @@
                                     Text="Building 23"
                                     FontSize="8"
                                     TextColor="Black"
-                                    Margin="-90,10,0,0"
+                                    Margin="-80,10,0,0"
                                     HorizontalOptions="Center" VerticalOptions="Center"/>
                         </Grid>                 
                     </StackLayout>
