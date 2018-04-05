@@ -1,17 +1,22 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Views/EventsViewCell.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Models/PostMessageModel.cs">
     <Files>
       <File FileName="UNFI/Pages/EventsPage.xaml.cs" Line="20" Column="1" />
       <File FileName="UNFI/Pages/EventsPage.xaml" Line="42" Column="15" />
       <File FileName="UNFI/Views/EventsViewCell.xaml.cs" Line="24" Column="6" />
       <File FileName="UNFI/Views/FeedDetailsViewCell.xaml" Line="29" Column="12" />
-      <File FileName="UNFI/Views/EventsViewCell.xaml" Line="17" Column="44" />
+      <File FileName="UNFI/Views/EventsViewCell.xaml" Line="23" Column="31" />
+      <File FileName="UNFI/ViewModels/EventsViewModel.cs" Line="25" Column="22" />
+      <File FileName="UNFI/Models/PostMessageModel.cs" Line="14" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="UNFI" expanded="True">
             <Node name="UNFI" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="PostMessageModel.cs" selected="True" />
+              </Node>
               <Node name="Pages" expanded="True">
                 <Node name="BasePage" expanded="True">
                   <Node name="UNFITabbedPage.xaml" expanded="True" />
@@ -23,10 +28,13 @@
               </Node>
               <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="EventsViewCell.xaml" expanded="True" selected="True" />
+                <Node name="EventsViewCell.xaml" expanded="True" />
                 <Node name="FeedViewCell.xaml" expanded="True" />
               </Node>
               <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="UNFI.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
             </Node>
           </Node>
         </State>
