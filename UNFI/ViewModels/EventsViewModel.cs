@@ -21,7 +21,7 @@ namespace UNFI.ViewModels
                     Replies ="Replies: 23",
                     PostUser= new UserProfileModel
                     {
-                        PictureUrl="https://unfi.blob.core.windows.net/bbq/BBQ.png"
+                        PictureUrl="https://unfi.blob.core.windows.net/bbq/BBQ2.png"
                     }
                 },
 
