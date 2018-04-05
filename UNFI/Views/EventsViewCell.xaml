@@ -6,22 +6,27 @@
     x:Class="UNFI.Views.EventsViewCell">
 
    <ViewCell.View>
-        <Frame
-            Margin="7,3,7,3">
+       
                 <StackLayout
                     Orientation="Horizontal"
-                    HorizontalOptions="Start">
+                    HorizontalOptions="Start"
+                    Padding="5">
+                        <Image
+                            x:Name = "UserProfilePicture"
+                            HeightRequest="75"
+                            WidthRequest="75"
+                            />
                         
-                       <ic:CircleImage
+                      <!-- <ic:CircleImage
                             x:Name = "UserProfilePicture"
                             Margin="0,0,5,0"
-                            WidthRequest="75"
-                            HeightRequest="75"
+                            WidthRequest="50"
+                            HeightRequest="50"
                             Aspect="AspectFill"
                             BorderColor="Black"
                             BorderThickness="2"
 
-                            />
+                            />-->
                         <Grid>
                             <Grid.RowDefinitions>
                                 <RowDefinition Height="60"/>
@@ -65,6 +70,6 @@
                                     HorizontalOptions="Center" VerticalOptions="Center"/>
                         </Grid>                 
                     </StackLayout>
-            </Frame>
+            
     </ViewCell.View>
 </ViewCell>
