@@ -12,8 +12,8 @@
                 TargetType="NavigationPage">
                     <Setter Property="HasNavigationBar" Value="True" />
                     <Setter Property="BarTextColor" Value="White" />
-<!--                    <Setter Property="BarBackgroundColor" Value="#52bf90" />
--->            </Style>
+                   <Setter Property="BarBackgroundColor" Value="#52bf90" />
+            </Style>
 
            <!-- LABELS-->
             <Style
