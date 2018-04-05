@@ -17,7 +17,7 @@ namespace UNFI.ViewModels
             {
                 new PostMessageModel()
                 {
-                    PostText = "And the only way to do great work is to love what you do. ",
+                    PostText = "BBQ this Friday after second shift!! Respond if you are interested!",
                     Replies ="Replies: 23",
                     PostUser= new UserProfileModel
                     {

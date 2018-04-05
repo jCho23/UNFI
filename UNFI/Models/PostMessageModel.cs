@@ -10,5 +10,7 @@ namespace UNFI.Models
         public int NumberOfLikes { get; set; }
         public int NumberOfReplies { get; set; }
         public string Replies { get; set; }
+
+        public string Image { get; set; }
     }
 }
