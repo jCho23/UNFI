@@ -18,8 +18,8 @@ namespace UNFI.Views
 
             var model = BindingContext as PostMessageModel;
 
-            MyPostsMessageLabel.Text = model.PostText;
-            UserProfilePicture.Source = model.PostUser.PictureUrl;
+            PostMessageLabel.Text = model?.PostText;
+            UserProfilePicture.Source = model?.PostUser.PictureUrl;
         }
     }
 }
