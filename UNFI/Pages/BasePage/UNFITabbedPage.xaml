@@ -14,13 +14,17 @@
         Title="My Posts"
         Icon="Chat.png" />
 
-     <localPages:EventsPage
-        Title="Events"
-        Icon="Events.png" />
+     <localPages:TipsVideoPage
+        Title="Tips"
+        Icon="Light.png" />
 
     <localPages:LeaderBoardPage
         Title="LeaderBoard"
         Icon="LeaderBoard.png" />
+
+     <localPages:EventsPage
+        Title="Events"
+        Icon="Events.png" />
 
     <localPages:ShiftsPage
         Title="Shifts"

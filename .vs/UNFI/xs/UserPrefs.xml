@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Views/FeedDetailsViewCell.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/TipsVideoPage.xaml">
     <Files>
-      <File FileName="UNFI/Pages/TipsVideoPage.xaml" Line="7" Column="5" />
+      <File FileName="UNFI/Pages/TipsVideoPage.xaml" Line="8" Column="16" />
       <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="109" Column="15" />
       <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml" Line="65" Column="15" />
       <File FileName="UNFI/Pages/EventsPage.xaml" Line="13" Column="42" />
@@ -13,7 +13,7 @@
       <File FileName="UNFI/Pages/FeedDetailsPage.xaml.cs" Line="1" Column="1" />
       <File FileName="UNFI/Views/FeedViewCell.xaml.cs" Line="25" Column="6" />
       <File FileName="UNFI/Models/PostMessageModel.cs" Line="9" Column="45" />
-      <File FileName="UNFI/Pages/EventsPage.xaml.cs" Line="17" Column="13" />
+      <File FileName="UNFI/Pages/EventsPage.xaml.cs" Line="20" Column="1" />
       <File FileName="UNFI/Views/MyPostsViewCell.xaml" Line="41" Column="12" />
       <File FileName="UNFI/Pages/BasePage/UNFITabbedPage.xaml.cs" Line="12" Column="1" />
       <File FileName="UNFI/Pages/BasePage/UNFITabbedPage.xaml" Line="33" Column="14" />
@@ -25,6 +25,7 @@
       <File FileName="UNFI/ViewModels/FeedViewModel.cs" Line="108" Column="42" />
       <File FileName="UNFI/Pages/LeaderBoardPage.xaml.cs" Line="1" Column="1" />
       <File FileName="UNFI/Views/FeedDetailsViewCell.xaml.cs" Line="1" Column="1" />
+      <File FileName="UNFI/Pages/TipsVideoPage.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -32,20 +33,18 @@
           <Node name="UNFI" expanded="True">
             <Node name="UNFI" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="BasePage" expanded="True" />
                 <Node name="EventsPage.xaml" expanded="True" />
-                <Node name="FeedDetailsPage.xaml" expanded="True" />
+                <Node name="FeedAddPostModalPage.xaml" expanded="True" />
                 <Node name="FeedPage.xaml" expanded="True" />
-                <Node name="LeaderBoardPage.xaml" expanded="True" />
+                <Node name="TipsVideoPage.xaml" expanded="True" selected="True" />
               </Node>
-              <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="FeedDetailsViewCell.xaml" expanded="True">
-                  <Node name="FeedDetailsViewCell.xaml.cs" selected="True" />
-                </Node>
                 <Node name="FeedViewCell.xaml" expanded="True" />
               </Node>
               <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="UNFI.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
             </Node>
           </Node>
         </State>

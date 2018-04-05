@@ -14,7 +14,7 @@ namespace UNFI.Pages
 
             InitializeComponent();
 
-            Application.Current.Resources["BackgroundColor"] = Color.Black;
+
 
         }
 
