@@ -11,6 +11,6 @@ namespace UNFI.Models
         public int NumberOfReplies { get; set; }
         public string Replies { get; set; }
 
-        public string Image { get; set; }
+        public string Location { get; set; }
     }
 }

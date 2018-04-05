@@ -19,6 +19,7 @@ namespace UNFI.ViewModels
                 {
                     PostText = "BBQ this Friday after second shift!! Respond if you are interested!",
                     Replies ="Replies: 23",
+                    Location = "Building 32",
                     PostUser= new UserProfileModel
                     {
                         PictureUrl="https://unfi.blob.core.windows.net/bbq/BBQ2.png"
@@ -29,6 +30,7 @@ namespace UNFI.ViewModels
                 {
                     PostText = "Anyone want to help out at the Boys and Girls club this Saturday? I plan to be there 12-3pm!",
                     Replies ="Replies: 8",
+                    Location= "Meet @ HQ",
                     PostUser= new UserProfileModel
                     {
                         PictureUrl="https://unfi.blob.core.windows.net/bbq/hand.png"
