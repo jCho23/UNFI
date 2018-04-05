@@ -52,11 +52,12 @@
                                 <Label
                                     Grid.Row="1" Grid.Column="1"
                                     Margin="0,10,0,0"
+                                    FontSize="8"
                                     Text="Location:"/>
                                
                                 <Label
                                     Grid.Row= "1" Grid.Column="1"
-                                    Text="23"
+                                    Text="Building 23"
                                     FontSize="8"
                                     TextColor="Black"
                                     Margin="30,10,0,0"
