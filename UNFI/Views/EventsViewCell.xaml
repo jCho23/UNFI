@@ -20,7 +20,8 @@
                             Aspect="AspectFill"
                             BorderColor="Black"
                             BorderThickness="2"
-                            BackgroundColor="Gray"
+
+
                             />
                         <Grid>
                             <Grid.RowDefinitions>
