@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Views/FeedViewCell.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/ViewModels/EventsViewModel.cs">
     <Files>
-      <File FileName="UNFI/Views/FeedViewCell.xaml" Line="66" Column="1" />
-      <File FileName="UNFI/Views/EventsViewCell.xaml" Line="70" Column="1" NotebookId="1" />
+      <File FileName="UNFI/Views/EventsViewCell.xaml" Line="51" Column="37" />
+      <File FileName="UNFI/ViewModels/EventsViewModel.cs" Line="33" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,16 +19,16 @@
                 <Node name="FeedPage.xaml" expanded="True" />
                 <Node name="TipsVideoPage.xaml" expanded="True" />
               </Node>
-              <Node name="ViewModels" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="EventsViewModel.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True">
                 <Node name="EventsViewCell.xaml" expanded="True" />
-                <Node name="FeedViewCell.xaml" expanded="True" selected="True" />
+                <Node name="FeedViewCell.xaml" expanded="True" />
               </Node>
               <Node name="App.xaml" expanded="True" />
             </Node>
-            <Node name="UNFI.iOS" expanded="True">
-              <Node name="Resources" expanded="True" />
-            </Node>
+            <Node name="UNFI.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>

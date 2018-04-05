@@ -60,7 +60,7 @@
                                     Grid.Row= "1" Grid.Column="1"
                                     Text="Building: 32"
                                     FontSize="8"
-                                    TextColor="Black"
+                                    TextColor="Blue"
                                     Margin="20,10,0,0"
                                     HorizontalOptions="Center" VerticalOptions="Center"/>
                         </Grid>                 

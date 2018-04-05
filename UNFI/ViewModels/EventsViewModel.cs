@@ -27,11 +27,11 @@ namespace UNFI.ViewModels
 
                 new PostMessageModel()
                 {
-                    PostText = "And the only way to do great work is to love what you do. ",
-                    Replies ="Replies: 23",
+                    PostText = "Anyone want to help out at the Boys and Girls club this Saturday? I plan to be there 12-3pm!",
+                    Replies ="Replies: 8",
                     PostUser= new UserProfileModel
                     {
-                        PictureUrl="http://www.profightdb.com/img/wrestlers/thumbs-600/6baee11272the-rock.jpg"
+                        PictureUrl="https://unfi.blob.core.windows.net/bbq/hand.png"
                     }
                 },
 
