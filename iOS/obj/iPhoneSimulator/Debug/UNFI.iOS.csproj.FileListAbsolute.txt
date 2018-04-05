@@ -77,3 +77,4 @@
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/LeaderBoard.png
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/light.png
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/BBQ.png
+/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/location.png

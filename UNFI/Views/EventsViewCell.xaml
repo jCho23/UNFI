@@ -49,12 +49,11 @@
                                     Text="{Binding Replies}"
                                     HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
 
-                                <Label
+                                <Image
                                     Grid.Row="1" Grid.Column="1"
                                     Margin="0,10,0,0"
-                                    FontSize="8"
-                                    TextColor="Black"
-                                    Text="Location:"/>
+                                    Source="location.png"
+                                    />
                                
                                 <Label
                                     Grid.Row= "1" Grid.Column="1"
