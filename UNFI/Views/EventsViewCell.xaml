@@ -11,19 +11,20 @@
                     Orientation="Horizontal"
                     HorizontalOptions="Start"
                     Padding="5">
-                        <Image
+                       <Image
                             x:Name = "UserProfilePicture"
                             HeightRequest="75"
                             WidthRequest="75"
 
 
+
                             />
                         
-                      <!-- <ic:CircleImage
+                     <!--  <ic:CircleImage
                             x:Name = "UserProfilePicture"
                             Margin="0,0,5,0"
-                            WidthRequest="50"
-                            HeightRequest="50"
+                            WidthRequest="75"
+                            HeightRequest="75"
                             Aspect="AspectFill"
                             BorderColor="Black"
                             BorderThickness="2"
