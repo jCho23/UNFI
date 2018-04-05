@@ -21,7 +21,7 @@ namespace UNFI.ViewModels
                     Replies ="Replies: 23",
                     PostUser= new UserProfileModel
                     {
-                        PictureUrl="http://www.profightdb.com/img/wrestlers/thumbs-600/6baee11272the-rock.jpg"
+                        PictureUrl="https://unfi.blob.core.windows.net/bbq/BBQ.png"
                     }
                 },
 
