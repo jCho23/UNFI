@@ -15,17 +15,13 @@
         </xfg:Gradient>
     </xfg:ContentPageGloss.BackgroundGradient>
 
-    <StackLayout
-        HeightRequest="100"
-        WidthRequest="100"
-        >
-        <BoxView
-            HeightRequest="100"
-            WidthRequest="*"
-            BackgroundColor="Blue">
-
+   <StackLayout>
+        <Frame
+            HeightRequest="50"
+            WidthRequest="50">
             
-        </BoxView>
+        </Frame>
+    
         
   
 
@@ -86,5 +82,5 @@
             </DataTemplate>
         </ListView.ItemTemplate>
     </ListView>
-          </StackLayout>
+        </StackLayout>
 </ContentPage>
