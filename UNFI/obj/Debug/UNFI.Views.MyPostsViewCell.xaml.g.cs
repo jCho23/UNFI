@@ -18,7 +18,7 @@ namespace UNFI.Views {
         private global::ImageCircle.Forms.Plugin.Abstractions.CircleImage UserProfilePicture;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.Label MyPostsMessageLabel;
+        private global::Xamarin.Forms.Label PostMessageLabel;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Label PostNumberOfRepliesLabel;
@@ -27,7 +27,7 @@ namespace UNFI.Views {
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MyPostsViewCell));
             UserProfilePicture = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::ImageCircle.Forms.Plugin.Abstractions.CircleImage>(this, "UserProfilePicture");
-            MyPostsMessageLabel = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "MyPostsMessageLabel");
+            PostMessageLabel = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "PostMessageLabel");
             PostNumberOfRepliesLabel = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "PostNumberOfRepliesLabel");
         }
     }
