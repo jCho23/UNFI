@@ -39,11 +39,12 @@ namespace UNFI.ViewModels
 
                 new PostMessageModel()
                 {
-                    PostText = "And the only way to do great work is to love what you do. ",
-                    Replies ="Replies: 23",
+                    PostText = "Wine & Cheese tonight @7pm ! Bring your friends & family!",
+                    Replies ="Replies: 43",
+                    Location= "Building 22",
                     PostUser= new UserProfileModel
                     {
-                        PictureUrl="http://www.profightdb.com/img/wrestlers/thumbs-600/6baee11272the-rock.jpg"
+                        PictureUrl="https://unfi.blob.core.windows.net/bbq/Wine.png"
                     }
                 },
 
