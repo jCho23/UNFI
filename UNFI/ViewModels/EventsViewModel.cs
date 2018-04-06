@@ -28,7 +28,7 @@ namespace UNFI.ViewModels
 
                 new PostMessageModel()
                 {
-                    PostText = "Anyone want to help out at the Boys and Girls club this Saturday? If you want to come, meet me in the lobby at 11:30am!",
+                    PostText = "Anyone want to help out at the Boys and Girls club this Saturday?",
                     Replies ="Replies: 8",
                     Location= "Building 24",
                     PostUser= new UserProfileModel
