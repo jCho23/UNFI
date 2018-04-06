@@ -22,7 +22,7 @@ namespace UNFI.ViewModels
                     Location = "Building 32",
                     PostUser= new UserProfileModel
                     {
-                        PictureUrl="https://unfi.blob.core.windows.net/bbq/BBQ2.png"
+                        PictureUrl="https://unfi.blob.core.windows.net/bbq/BBQ3.png"
                     }
                 },
 
