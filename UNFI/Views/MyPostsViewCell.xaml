@@ -7,11 +7,10 @@
 
     <ViewCell.View>
         <Frame
-            Padding="10"
+            
             Margin="7,3,7,3"
             OutlineColor="#52bf90">
                 <StackLayout
-                    Padding="5"
                     Orientation="Horizontal"
                     HorizontalOptions="Start">
                         <ic:CircleImage
