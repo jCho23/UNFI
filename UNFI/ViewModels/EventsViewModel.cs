@@ -37,6 +37,17 @@ namespace UNFI.ViewModels
                     }
                 },
 
+				new PostMessageModel()
+				{
+					PostText = "Tips and Tricks training with Jo next Wed! Learn to make more $!",
+					Replies ="Replies: 34",
+					Location= "Building 44",
+					PostUser= new UserProfileModel
+					{
+						PictureUrl="https://unfi.blob.core.windows.net/bbq/Training.png"
+					}
+				},
+
                 new PostMessageModel()
                 {
                     PostText = "Wine & Cheese tonight @7pm ! Bring your friends & family!",
@@ -50,7 +61,7 @@ namespace UNFI.ViewModels
 
                 new PostMessageModel()
                 {
-                    PostText = "SOUP POTLUCK! Bring in Veggies & Meat tomorrow to participate!",
+                    PostText = "SOUP POTLUCK TOMORROW! Bring in Veggies & Meat to participate!",
                     Replies ="Replies: 23",
                     Location= "Building 22",
                     PostUser= new UserProfileModel
@@ -61,26 +72,15 @@ namespace UNFI.ViewModels
 
                 new PostMessageModel()
                 {
-                    PostText = "Tips and Tricks training with Jo next Wed! Learn to make more $!",
-                    Replies ="Replies: 34",
-                    Location= "Building 44",
-                    PostUser= new UserProfileModel
-                    {
-                        PictureUrl="https://unfi.blob.core.windows.net/bbq/Training.png"
-                    }
-                },
-
-                new PostMessageModel()
-                {
-                    PostText = "And the only way to do great work is to love what you do. ",
+                    PostText = "Selectors VS Managers softball game this Saturday! Meet @10am in the lobby of 45!",
                     Replies ="Replies: 23",
+                    Location= "Building 45",
                     PostUser= new UserProfileModel
                     {
-                        PictureUrl="http://www.profightdb.com/img/wrestlers/thumbs-600/6baee11272the-rock.jpg"
+                        PictureUrl="https://unfi.blob.core.windows.net/bbq/baseball.png"
                     }
                 }
             };
-
         }
 
         public string NumberOfReplies
