@@ -28,12 +28,12 @@ namespace UNFI.ViewModels
 
                 new PostMessageModel()
                 {
-                    PostText = "Anyone want to help out at the Boys and Girls club this Saturday? I plan to be there 12-3pm!",
+                    PostText = "Anyone want to help out at the Boys and Girls club this Saturday? If you want to come, meet me in the lobby at 11:30am!",
                     Replies ="Replies: 8",
-                    Location= "Meet @ HQ",
+                    Location= "Building 24",
                     PostUser= new UserProfileModel
                     {
-                        PictureUrl="https://unfi.blob.core.windows.net/bbq/hand.png"
+                        PictureUrl="https://unfi.blob.core.windows.net/bbq/hand2.png"
                     }
                 },
 

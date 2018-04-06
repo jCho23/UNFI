@@ -6,75 +6,60 @@
     x:Class="UNFI.Views.EventsViewCell">
 
    <ViewCell.View>
-       
-                <StackLayout
-                    Orientation="Horizontal"
-                    HorizontalOptions="Start"
-                    Padding="5">
-                       <Image
-                            x:Name = "UserProfilePicture"
-                            HeightRequest="75"
-                            WidthRequest="75"
+        <StackLayout
+            Orientation="Horizontal"
+            HorizontalOptions="Start"
+            Padding="5">
+               <Image
+                    x:Name = "UserProfilePicture"
+                    HeightRequest="75"
+                    WidthRequest="75" 
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"/>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="60"/>
+                        <RowDefinition Height="20"/>
+                    </Grid.RowDefinitions>
+                    
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                   </Grid.ColumnDefinitions>
+                        <Label
+                            x:Name="PostMessageLabel"
+                            Grid.Row="0" Grid.ColumnSpan="3"
+                            FontSize="16" 
+                            Margin="5,2,0,0"
+                            HorizontalOptions="Center"
+                            VerticalOptions="Center"
+                            Text="{Binding PostText}"/>
+                       <Label
+                            x:Name="PostNumberOfRepliesLabel"
+                            Grid.Row="1" Grid.Column="2"
+                            FontSize="8"
+                            TextColor="Black"
+                            Margin="30,0,-10,0"
+                            Text="{Binding Replies}"
+                            HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
 
-
-
+                        <Image
+                            Grid.Row="1" Grid.Column="1"
+                            Margin="-40,10,0,0"
+                            Aspect="AspectFit"
+                            Source="location.png"
                             />
-                        
-                     <!--  <ic:CircleImage
-                            x:Name = "UserProfilePicture"
-                            Margin="0,0,5,0"
-                            WidthRequest="75"
-                            HeightRequest="75"
-                            Aspect="AspectFill"
-                            BorderColor="Black"
-                            BorderThickness="2"
-
-                            />-->
-                        <Grid>
-                            <Grid.RowDefinitions>
-                                <RowDefinition Height="60"/>
-                                <RowDefinition Height="20"/>
-                            </Grid.RowDefinitions>
-                            
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="*"/>
-                                <ColumnDefinition Width="*"/>
-                                <ColumnDefinition Width="*"/>
-                           </Grid.ColumnDefinitions>
-            
-                                <Label
-                                    x:Name="PostMessageLabel"
-                                    Grid.Row="0" Grid.ColumnSpan="3"
-                                    FontSize="16" 
-                                    Margin="5,2,0,0"
-                                    HorizontalOptions="Center"
-                                    VerticalOptions="Center"
-                                    Text="{Binding PostText}"/>
-                               <Label
-                                    x:Name="PostNumberOfRepliesLabel"
-                                    Grid.Row="1" Grid.Column="2"
-                                    FontSize="8"
-                                    TextColor="Black"
-                                    Margin="30,0,-10,0"
-                                    Text="{Binding Replies}"
-                                    HorizontalOptions="EndAndExpand" VerticalOptions="EndAndExpand"/>
-
-                                <Image
-                                    Grid.Row="1" Grid.Column="1"
-                                    Margin="-40,10,0,0"
-                                    Aspect="AspectFit"
-                                    Source="location.png"
-                                    />
-                               
-                                <Label
-                                    Grid.Row= "1" Grid.Column="1"
-                                    Text="{Binding Location}"
-                                    FontSize="8"
-                                    TextColor="Blue"
-                                    Margin="20,10,0,0"
-                                    HorizontalOptions="Center" VerticalOptions="Center"/>
-                        </Grid>                 
-                    </StackLayout>
-            
+                       
+                        <Label
+                            Grid.Row= "1" Grid.Column="1"
+                            Text="{Binding Location}"
+                            FontSize="8"
+                            TextColor="Blue"
+                            Margin="20,10,0,0"
+                            HorizontalOptions="Center" VerticalOptions="Center"/>
+                </Grid>                 
+            </StackLayout>
+    
     </ViewCell.View>
 </ViewCell>
