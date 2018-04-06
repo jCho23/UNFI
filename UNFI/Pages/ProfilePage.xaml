@@ -54,15 +54,15 @@
                 </Grid.ColumnDefinitions>
             <Frame
                 Grid.RowSpan="2"
-                Grid.ColumnSpan="1"
+                Grid.ColumnSpan="2"
                 BackgroundColor="Transparent"
                 OutlineColor="Black">
             </Frame>
               <Frame
                 Grid.RowSpan="2"
                 Grid.ColumnSpan="2"
-                BackgroundColor="Silver"
-                Opacity=".60"
+                BackgroundColor="Yellow"
+                Opacity=".40"
                 OutlineColor="Black">
             </Frame>
                 <Label
