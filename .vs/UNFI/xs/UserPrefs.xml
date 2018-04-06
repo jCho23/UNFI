@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Views/MyPostsViewCell.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/ViewModels/MyPostsViewModel.cs">
     <Files>
       <File FileName="UNFI/Pages/EventsPage.xaml" Line="44" Column="15" />
       <File FileName="UNFI/Pages/LeaderBoardPage.xaml" Line="83" Column="15" />
@@ -7,8 +7,8 @@
       <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml" Line="65" Column="15" />
       <File FileName="UNFI/Pages/MyPostsPage.xaml" Line="34" Column="1" />
       <File FileName="UNFI/Views/FeedViewCell.xaml" Line="44" Column="39" />
-      <File FileName="UNFI/Views/MyPostsViewCell.xaml.cs" Line="21" Column="13" />
-      <File FileName="UNFI/Views/MyPostsViewCell.xaml" Line="11" Column="29" NotebookId="1" />
+      <File FileName="UNFI/Views/MyPostsViewCell.xaml.cs" Line="24" Column="6" />
+      <File FileName="UNFI/ViewModels/MyPostsViewModel.cs" Line="20" Column="90" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" automaticSigning="False" />
