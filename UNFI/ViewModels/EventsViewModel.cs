@@ -52,7 +52,7 @@ namespace UNFI.ViewModels
                 {
                     PostText = "SOUP POTLUCK! Bring in Veggies & Meat tomorrow to participate!",
                     Replies ="Replies: 23",
-                    Location= "Building 28",
+                    Location= "Building 22",
                     PostUser= new UserProfileModel
                     {
                         PictureUrl="https://unfi.blob.core.windows.net/bbq/soup.png"
@@ -62,10 +62,11 @@ namespace UNFI.ViewModels
                 new PostMessageModel()
                 {
                     PostText = "And the only way to do great work is to love what you do. ",
-                    Replies ="Replies: 23",
+                    Replies ="Replies: 34",
+                    Location= "Building 44",
                     PostUser= new UserProfileModel
                     {
-                        PictureUrl="http://www.profightdb.com/img/wrestlers/thumbs-600/6baee11272the-rock.jpg"
+                        PictureUrl="https://unfi.blob.core.windows.net/bbq/Training.png"
                     }
                 },
 
