@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/ProfilePage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/LeaderBoardPage.xaml">
     <Files>
       <File FileName="UNFI/Views/EventsViewCell.xaml" Line="50" Column="48" />
       <File FileName="UNFI/ViewModels/EventsViewModel.cs" Line="82" Column="18" />
@@ -20,7 +20,8 @@
       <File FileName="UNFI/Models/ReplyMessageModel.cs" Line="1" Column="1" />
       <File FileName="UNFI/Models/UserProfileModel.cs" Line="1" Column="1" />
       <File FileName="UNFI/Views/FeedViewCell.xaml" Line="9" Column="8" />
-      <File FileName="UNFI/Pages/ProfilePage.xaml" Line="64" Column="40" />
+      <File FileName="UNFI/Pages/ProfilePage.xaml" Line="62" Column="36" />
+      <File FileName="UNFI/Pages/LeaderBoardPage.xaml" Line="18" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -35,7 +36,7 @@
                 <Node name="EventsPage.xaml" expanded="True" />
                 <Node name="FeedAddPostModalPage.xaml" expanded="True" />
                 <Node name="FeedPage.xaml" expanded="True" />
-                <Node name="ProfilePage.xaml" selected="True" />
+                <Node name="LeaderBoardPage.xaml" selected="True" />
                 <Node name="TipsVideoPage.xaml" expanded="True" />
               </Node>
               <Node name="ViewModels" expanded="True" />
