@@ -94,7 +94,7 @@ namespace UNFI.ViewModels
                 },
                 new PostMessageModel
                 {
-                    PostText = "Everything around you that you call life was made up by people that were no smarter than you",
+                    PostText = "PSA: Super icy roads today, be careful coming into work. Highly recommend snow tires.",
                     Replies = "Replies: 32",
                     PostUser= new UserProfileModel
                     {
