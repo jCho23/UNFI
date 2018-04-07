@@ -7,7 +7,7 @@ using Foundation;
 
 using Xamarin.Forms;
 
-using Plugin.MediaManager.Forms.iOS;
+//using Plugin.MediaManager.Forms.iOS;
 
 
 
@@ -21,7 +21,7 @@ namespace UNFI.iOS
     {
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
-            VideoViewRenderer.Init();
+            //VideoViewRenderer.Init();
 
             global::Xamarin.Forms.Forms.Init();
 
