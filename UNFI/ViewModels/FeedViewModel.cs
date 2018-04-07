@@ -104,7 +104,7 @@ namespace UNFI.ViewModels
                 },
                 new PostMessageModel
                 {
-                    PostText = "Everything around you that you call life was made up by people that were no smarter than you",
+                    PostText = "Second Shift Selectors rocked last night! We set a new record for loading the most trucks in a day!",
                     Replies = "Replies: 8",
                     PostUser= new UserProfileModel
                     {
