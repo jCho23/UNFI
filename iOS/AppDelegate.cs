@@ -5,8 +5,14 @@ using System.Collections.Generic;
 using UIKit;
 using Foundation;
 
-using ImageCircle.Forms.Plugin.iOS;
+using Xamarin.Forms;
+
 using Plugin.MediaManager.Forms.iOS;
+
+
+
+using ImageCircle.Forms.Plugin.iOS;
+
 
 namespace UNFI.iOS
 {
