@@ -1,11 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
+using System.Collections.Generic;
 
-using Foundation;
 using UIKit;
+using Foundation;
 
 using ImageCircle.Forms.Plugin.iOS;
+using Plugin.MediaManager.Forms.iOS;
 
 namespace UNFI.iOS
 {
@@ -14,6 +15,8 @@ namespace UNFI.iOS
     {
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
+            VideoViewRenderer.Init();
+
             global::Xamarin.Forms.Forms.Init();
 
             ImageCircleRenderer.Init();
