@@ -142,6 +142,7 @@
     <Compile Include="Pages\TipsVideoPage.xaml.cs">
       <DependentUpon>TipsVideoPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Constants\MediaConstants.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">
