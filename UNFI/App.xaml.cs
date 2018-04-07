@@ -1,4 +1,6 @@
-﻿using Xamarin.Forms;
+﻿using Plugin.MediaManager;
+using UNFI.Constants;
+using Xamarin.Forms;
 using Xamarin.Forms.PlatformConfiguration.iOSSpecific;
 
 namespace UNFI
@@ -11,6 +13,8 @@ namespace UNFI
         public App()
         {
             InitializeComponent();
+
+            CrossMediaManager.Current.RequestHeaders.Add(MediaConstants.EncryptedVideoHeaderKey, MediaConstants.EncryptedVideoHeaderToken);
 
             var navigationPage = new Xamarin.Forms.NavigationPage(new Pages.BasePage.UNFITabbedPage());
             navigationPage.On<Xamarin.Forms.PlatformConfiguration.iOS>().SetPrefersLargeTitles(true);
