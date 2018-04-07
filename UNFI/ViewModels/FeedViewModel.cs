@@ -84,7 +84,7 @@ namespace UNFI.ViewModels
                 },
                 new PostMessageModel
                 {
-                    PostText = "Everything around you that you call life was made up by people that were no smarter than you",
+                    PostText = "@Jo thank you so much for bringing in your famous homemade cookies, they were delicious!",
                     Replies = "Replies: 16",
                     PostUser= new UserProfileModel
                     {
