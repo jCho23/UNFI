@@ -2,6 +2,8 @@
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/UNFI.iOS.pdb
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/ImageCircle.Forms.Plugin.Abstractions.dll
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/ImageCircle.Forms.Plugin.iOS.dll
+/Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/Plugin.MediaManager.Abstractions.dll
+/Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/Plugin.MediaManager.dll
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/UNFI.dll
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
@@ -22,6 +24,8 @@
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.xml
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/XFGloss.xml
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/XFGloss.iOS.xml
+/Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/Plugin.MediaManager.Abstractions.xml
+/Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/Plugin.MediaManager.xml
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/june/Projects/UNFI/iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
@@ -63,11 +67,6 @@
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_BundleResourceWithLogicalName.items
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/Add.png
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/Apple.png
-/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/
-/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.csproj.CoreCompileInputs.cache
-/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.exe
-/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.pdb
-/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.csprojResolveAssemblyReference.cache
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/Profile.png
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/Chat.png
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/Heart.png
@@ -78,4 +77,9 @@
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/light.png
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/BBQ.png
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/location.png
-/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/Trophy.png
+/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/trophy.png
+/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/
+/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.csprojResolveAssemblyReference.cache
+/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.csproj.CoreCompileInputs.cache
+/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.exe
+/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.pdb

@@ -37,3 +37,5 @@
 /Users/june/Projects/UNFI/packages/Xamarin.Forms.2.5.0.280555/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/Facades/System.Text.RegularExpressions.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.1.28/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.Tools.dll
+/Users/june/Projects/UNFI/packages/Plugin.MediaManager.0.4.5/lib/Xamarin.iOS10/Plugin.MediaManager.dll
+/Users/june/Projects/UNFI/packages/Plugin.MediaManager.0.4.5/lib/Xamarin.iOS10/Plugin.MediaManager.Abstractions.dll
