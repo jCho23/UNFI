@@ -8,18 +8,8 @@
     <ViewCell.View>
         <Frame
             Margin="7,3,7,3">
-                <StackLayout
-                    Orientation="Horizontal"
-                    HorizontalOptions="Start">
-                        <ic:CircleImage
-                            x:Name = "UserProfilePicture"
-                            Margin="0,0,5,0"
-                            WidthRequest="75"
-                            HeightRequest="75"
-                            Aspect="AspectFill"
-                            BorderColor="White"
-                            BorderThickness="1"
-                            />
+                
+                         
                          
                         <Grid>
                             <Grid.RowDefinitions>
@@ -34,12 +24,40 @@
                            </Grid.ColumnDefinitions>
             
                                 <Label
+                                    
                                     x:Name="PostMessageLabel"
-                                    Grid.Row="0" Grid.ColumnSpan="3"
+                                    Grid.Row="1" Grid.ColumnSpan="3"
                                     FontSize="16" 
                                     Margin="5,2,0,0"
+                                    TextColor="Fuchsia"
                                     Text="{Binding PostText}"/>
-                               <Label
+                    
+                              <ic:CircleImage
+                        Grid.Row="0"
+                            x:Name = "UserProfilePicture"
+                            Margin="0,0,5,0"
+                            WidthRequest="75"
+                            HeightRequest="75"
+                            Aspect="AspectFill"
+                            BorderColor="White"
+                            HorizontalOptions="Center"
+                            VerticalOptions="Center"
+                            BorderThickness="1"
+                            />
+
+                             <ic:CircleImage
+                          
+                           Grid.Row="0"
+                            WidthRequest="40"
+                            HeightRequest="40"
+                            Aspect="AspectFill"
+                            BorderColor="White"
+                            HorizontalOptions="Center"
+                            VerticalOptions="Center"
+                            Source="theRock.jpg"
+                            BorderThickness="1"
+                            />
+                          <!--     <Label
                                     x:Name="PostNumberOfRepliesLabel"
                                     Grid.Row="1" Grid.Column="2"
                                     FontSize="8"
@@ -58,9 +76,9 @@
                                     FontSize="8"
                                     TextColor="Black"
                                     Margin="30,10,0,0"
-                                    HorizontalOptions="Center" VerticalOptions="Center"/>
+                                    HorizontalOptions="Center" VerticalOptions="Center"/>-->
                         </Grid>                 
-                    </StackLayout>
+                    
             </Frame>
     </ViewCell.View>
 </ViewCell>
