@@ -1,20 +1,23 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/FeedPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/FeedPage.xaml">
     <Files>
-      <File FileName="UNFI/Pages/ShiftsPage.xaml.cs" Line="18" Column="1" />
+      <File FileName="UNFI/Pages/ShiftsPage.xaml.cs" Line="21" Column="2" />
+      <File FileName="UNFI/ViewModels/ShiftsViewModel.cs" Line="48" Column="25" />
+      <File FileName="UNFI/Views/ShiftsViewCell.xaml" Line="6" Column="1" />
+      <File FileName="UNFI/Views/ShiftsViewCell.xaml.cs" Line="1" Column="1" />
       <File FileName="UNFI/Pages/ShiftsPage.xaml" Line="18" Column="63" NotebookId="1" />
       <File FileName="UNFI/Pages/FeedPage.xaml" Line="28" Column="1" NotebookId="1" />
-      <File FileName="UNFI/Views/ShiftsViewCell.xaml" Line="25" Column="46" NotebookId="1" />
-      <File FileName="UNFI/Views/ShiftsViewCell.xaml.cs" Line="8" Column="51" NotebookId="1" />
       <File FileName="UNFI/Views/FeedViewCell.xaml" Line="66" Column="1" NotebookId="1" />
-      <File FileName="UNFI/Views/FeedViewCell.xaml.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="UNFI/Views/FeedViewCell.xaml.cs" Line="15" Column="7" NotebookId="1" />
       <File FileName="UNFI/Models/ShiftsModel.cs" Line="11" Column="2" NotebookId="1" />
       <File FileName="UNFI/Models/TipsVideoModel.cs" Line="10" Column="1" NotebookId="1" />
       <File FileName="UNFI/Models/ReplyMessageModel.cs" Line="1" Column="1" NotebookId="1" />
       <File FileName="UNFI/Models/UserProfileModel.cs" Line="1" Column="1" NotebookId="1" />
       <File FileName="UNFI/Models/PostMessageModel.cs" Line="1" Column="1" NotebookId="1" />
-      <File FileName="UNFI/ViewModels/ShiftsViewModel.cs" Line="1" Column="1" NotebookId="1" />
       <File FileName="UNFI/Pages/FeedPage.xaml.cs" Line="13" Column="12" NotebookId="1" />
+      <File FileName="UNFI/ViewModels/FeedViewModel.cs" Line="14" Column="52" NotebookId="1" />
+      <File FileName="UNFI/Pages/LeaderBoardPage.xaml" Line="6" Column="40" NotebookId="1" />
+      <File FileName="UNFI/Pages/ProfilePage.xaml" Line="124" Column="15" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" automaticSigning="False" />
