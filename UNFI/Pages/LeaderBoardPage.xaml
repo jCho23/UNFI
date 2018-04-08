@@ -26,6 +26,7 @@
             x:Name="leaderBoardListView"
             SeparatorVisibility="None"
             HasUnevenRows="true">
+            
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>

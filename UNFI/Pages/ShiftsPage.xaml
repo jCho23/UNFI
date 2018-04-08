@@ -14,7 +14,7 @@
                 Source="trophy.png"/>
         </Frame>
         <ListView
-            x:Name="shiftListView"
+            x:Name="shiftsListView"
             SeparatorVisibility="None"
             HasUnevenRows="true">
             <ListView.ItemTemplate>
