@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/ShiftsPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Models/PostMessageModel.cs">
     <Files>
       <File FileName="UNFI/Pages/EventsPage.xaml" Line="44" Column="15" />
       <File FileName="UNFI/Pages/LeaderBoardPage.xaml" Line="46" Column="7" />
@@ -17,9 +17,12 @@
       <File FileName="UNFI/App.xaml.cs" Line="22" Column="39" />
       <File FileName="UNFI/Pages/FeedPage.xaml" Line="56" Column="15" />
       <File FileName="UNFI/Pages/FeedPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="UNFI/Pages/ShiftsPage.xaml" Line="8" Column="5" />
+      <File FileName="UNFI/Pages/ShiftsPage.xaml" Line="16" Column="18" />
       <File FileName="UNFI/Pages/LeaderBoardPage.xaml.cs" Line="35" Column="15" />
-      <File FileName="UNFI/Pages/ShiftsPage.xaml.cs" Line="33" Column="15" />
+      <File FileName="UNFI/Pages/ShiftsPage.xaml.cs" Line="13" Column="22" />
+      <File FileName="UNFI/Models/ShiftsModel.cs" Line="1" Column="1" />
+      <File FileName="UNFI/Models/ReplyMessageModel.cs" Line="1" Column="1" />
+      <File FileName="UNFI/Models/PostMessageModel.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" automaticSigning="False" />
