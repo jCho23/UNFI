@@ -85,6 +85,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\ShiftsViewCell.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.xaml.cs">
@@ -145,6 +149,9 @@
     <Compile Include="Constants\MediaConstants.cs" />
     <Compile Include="Models\ShiftsModel.cs" />
     <Compile Include="Models\TipsVideoModel.cs" />
+    <Compile Include="Views\ShiftsViewCell.xaml.cs">
+      <DependentUpon>ShiftsViewCell.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="ImageCircle.Forms.Plugin.Abstractions">
