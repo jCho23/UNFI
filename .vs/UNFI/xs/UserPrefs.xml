@@ -3,9 +3,7 @@
     <Files>
       <File FileName="UNFI/ViewModels/ShiftsViewModel.cs" Line="25" Column="49" />
       <File FileName="UNFI/Views/MyPostsViewCell.xaml" Line="21" Column="1" />
-      <File FileName="UNFI/Views/ShiftsViewCell.xaml" Line="9" Column="9" />
-      <File FileName="UNFI/ViewModels/MyPostsViewModel.cs" Line="26" Column="19" />
-      <File FileName="UNFI/Models/PostMessageModel.cs" Line="15" Column="50" />
+      <File FileName="UNFI/Views/ShiftsViewCell.xaml" Line="13" Column="21" />
       <File FileName="iOS/Main.cs" Line="17" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>

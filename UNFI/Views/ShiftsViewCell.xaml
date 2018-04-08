@@ -6,14 +6,7 @@
     x:Class="UNFI.Views.ShiftsViewCell">
 
     <ViewCell.View>
-        <Frame
-            Margin="7,3,7,3"
-            HeightRequest="200">
 
-            </Frame>
-            <Label
-                Text="Teest"
-                TextColor="Fuchsia"/>
 
             
         <Frame
@@ -50,6 +43,13 @@
                                     Margin="5,2,0,0"
                                     TextColor="Fuchsia"
                                     Text="{Binding PostText}"/>
+
+                                <Label
+                                    Margin="0,20,0,0"
+                                    Text="Test"
+                                    Grid.Row="3" Grid.ColumnSpan="3"
+                                    TextColor="Fuchsia"/>
+                            
                     
                               <ic:CircleImage
                         Grid.Row="0"
