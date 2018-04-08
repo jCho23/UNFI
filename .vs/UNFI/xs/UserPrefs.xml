@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Models/PostMessageModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/ProfilePage.xaml">
     <Files>
       <File FileName="UNFI/Pages/EventsPage.xaml" Line="44" Column="15" />
       <File FileName="UNFI/Pages/LeaderBoardPage.xaml" Line="46" Column="7" />
@@ -23,6 +23,7 @@
       <File FileName="UNFI/Models/ShiftsModel.cs" Line="1" Column="1" />
       <File FileName="UNFI/Models/ReplyMessageModel.cs" Line="1" Column="1" />
       <File FileName="UNFI/Models/PostMessageModel.cs" Line="1" Column="1" />
+      <File FileName="UNFI/Pages/ProfilePage.xaml" Line="124" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" automaticSigning="False" />
