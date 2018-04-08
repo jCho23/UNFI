@@ -1,31 +1,32 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/FeedPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Models/TipsVideoModel.cs">
     <Files>
       <File FileName="UNFI/Pages/EventsPage.xaml" Line="44" Column="15" />
-      <File FileName="UNFI/Pages/LeaderBoardPage.xaml" Line="83" Column="15" />
-      <File FileName="UNFI/Pages/TipsVideoPage.xaml" Line="14" Column="31" />
+      <File FileName="UNFI/Pages/LeaderBoardPage.xaml" Line="29" Column="13" />
+      <File FileName="UNFI/Pages/TipsVideoPage.xaml" Line="5" Column="41" />
       <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml" Line="65" Column="15" />
       <File FileName="UNFI/Pages/MyPostsPage.xaml" Line="34" Column="1" />
       <File FileName="UNFI/Views/FeedViewCell.xaml" Line="66" Column="1" />
       <File FileName="UNFI/Views/MyPostsViewCell.xaml.cs" Line="24" Column="6" />
       <File FileName="UNFI/ViewModels/MyPostsViewModel.cs" Line="26" Column="19" />
       <File FileName="UNFI/ViewModels/FeedViewModel.cs" Line="22" Column="9" />
-      <File FileName="UNFI/Pages/TipsVideoPage.xaml.cs" Line="33" Column="15" />
+      <File FileName="UNFI/Pages/TipsVideoPage.xaml.cs" Line="23" Column="2" />
       <File FileName="UNFI/Constants/MediaConstants.cs" Line="11" Column="2" />
       <File FileName="iOS/AppDelegate.cs" Line="31" Column="13" />
       <File FileName="UNFI/App.xaml" Line="68" Column="1" />
       <File FileName="UNFI/App.xaml.cs" Line="22" Column="39" />
-      <File FileName="UNFI/Pages/FeedPage.xaml" Line="56" Column="15" />
+      <File FileName="UNFI/Pages/FeedPage.xaml" Line="43" Column="16" />
       <File FileName="UNFI/Pages/FeedPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="UNFI/Pages/ShiftsPage.xaml" Line="16" Column="18" />
+      <File FileName="UNFI/Pages/ShiftsPage.xaml" Line="9" Column="1" />
       <File FileName="UNFI/Pages/LeaderBoardPage.xaml.cs" Line="35" Column="15" />
-      <File FileName="UNFI/Pages/ShiftsPage.xaml.cs" Line="13" Column="22" />
+      <File FileName="UNFI/Pages/ShiftsPage.xaml.cs" Line="18" Column="1" />
       <File FileName="UNFI/Models/ShiftsModel.cs" Line="1" Column="1" />
       <File FileName="UNFI/Models/ReplyMessageModel.cs" Line="1" Column="1" />
       <File FileName="UNFI/Models/PostMessageModel.cs" Line="1" Column="1" />
-      <File FileName="UNFI/Pages/ProfilePage.xaml" Line="124" Column="15" />
+      <File FileName="UNFI/Pages/ProfilePage.xaml" Line="5" Column="40" />
       <File FileName="UNFI/Pages/FeedDetailsPage.xaml.cs" Line="1" Column="1" />
       <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="109" Column="15" />
+      <File FileName="UNFI/Models/TipsVideoModel.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" automaticSigning="False" />
