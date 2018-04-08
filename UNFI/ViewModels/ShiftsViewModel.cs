@@ -21,37 +21,30 @@ namespace UNFI.ViewModels
                 new PostMessageModel
                 {
                     PostText = "Mon, April 9 2018 : Shift 1",
-                    Replies = "Replies: 23",
+
                     Request= "The Rock wants to cover Jason's shift ",
                     Status= "Pending Manager's Approval",
-                    PictureTwoUrl = "theRock.jpg",
+                    PictureTwoUrl = "https://cdn.inquisitr.com/wp-content/uploads/2016/04/kylie-jenner-paper-photoshoot.pn",
                     PostUser= new UserProfileModel
                        
                     {
-                        Name = "Sarah Jenner",
-                        PictureUrl = "https://lion.blob.core.windows.net/pic1/pic1.jpeg"
+                        Name = "The Rock",
+                        PictureUrl = "theRock.jpb"
                     }
                 },
                 new PostMessageModel
                 {
-                    PostText = "Potluck this Friday for lunch! I'm bringing home-cooked ribs, anyone else in? ",
-                    Replies = "Replies: 24",
-                    PostUser= new UserProfileModel
-                    {
-                        Name = "Suzanne Jenner",
-                        PictureUrl = "https://lion.blob.core.windows.net/pic2/pic2.jpeg",
-                    }
-                },
-                new PostMessageModel
-                {
-                    PostText = "Shoutout to @JasonDalomba who helped me put together a palette and load up the truck like a pro!",
-                    Replies = "Replies: 18",
+                    PostText = "Mon, April 9 2018 : Shift 1",
+                    Request= "Thanks The Rock for covering Jason's shift!",
+                    Status= "Manager Approved",
+                    PictureTwoUrl = "https://cdn.inquisitr.com/wp-content/uploads/2016/04/kylie-jenner-paper-photoshoot.pn",
                     PostUser= new UserProfileModel
                     {
                         Name = "The Rock",
-                        PictureUrl = "http://www.profightdb.com/img/wrestlers/thumbs-600/6baee11272the-rock.jpg",
+                        PictureUrl = "theRock.jpg",
                     }
                 },
+
 
                
             };
