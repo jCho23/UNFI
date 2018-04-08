@@ -152,6 +152,7 @@
     <Compile Include="Views\ShiftsViewCell.xaml.cs">
       <DependentUpon>ShiftsViewCell.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ViewModels\ShiftsViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="ImageCircle.Forms.Plugin.Abstractions">
