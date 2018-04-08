@@ -3,8 +3,7 @@ namespace UNFI.Models
 {
     public class TipsVideoModel
     {
-        public TipsVideoModel()
-        {
-        }
+        public string PictureSource { get; set; }
+        public string Description { get; set; }
     }
 }
