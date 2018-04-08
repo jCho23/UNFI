@@ -14,7 +14,7 @@
 
             <ListView.RowHeight>
                     <OnPlatform x:TypeArguments="x:Int32">
-                        <On Platform="iOS, Android" Value="200"/>
+                        <On Platform="iOS, Android" Value="190"/>
                     </OnPlatform>
             </ListView.RowHeight>
             
@@ -26,38 +26,26 @@
                             Orientation="Horizontal">
                                 <Grid
                                     VerticalOptions="Fill">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="150"/>
+                                            <RowDefinition Height="80"/>
+                                        </Grid.RowDefinitions>
 
-                                    <Grid.RowDefinitions>
-                                        <RowDefinition Height="150"/>
-                                        <RowDefinition Height="80"/>
-                                    
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                        </Grid.ColumnDefinitions>
 
-                                    
-                                    </Grid.RowDefinitions>
-
-                                
-                                    <Grid.ColumnDefinitions>
-                                        <ColumnDefinition Width="*"/>
-
-                                    </Grid.ColumnDefinitions>
-
-                                        <Image
-                                            Grid.Column="0"
-                                            Grid.Row="0"
-                                            Aspect="AspectFill"
-                                            Source="scan.png"/>
-
-                                        <Label
-                                            Grid.Row="1"
-                                            Grid.Column="0"
-                                            Text="Training Video #1"
-                                            TextColor="Fuchsia"/>
-                                   
-
-                                
-                                       
-                                 
-                            </Grid>
+                                            <Image
+                                                Grid.Column="0"
+                                                Grid.Row="0"
+                                                Aspect="AspectFill"
+                                                Source="scan.png"/>
+                                            <Label
+                                                Grid.Row="1"
+                                                Grid.Column="0"
+                                                Text="Training Video #1"
+                                                TextColor="Fuchsia"/>
+                                </Grid>
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>
