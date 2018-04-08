@@ -41,6 +41,7 @@
                                             <Label
                                                 Grid.Row="1"
                                                 Grid.Column="0"
+                                                FontSize="20"
                                                 Text="{Binding Description}"
                                                 TextColor="Fuchsia"/>
                                 </Grid>

@@ -11,7 +11,7 @@ namespace UNFI.Pages
         {
             InitializeComponent();
             tipsVideoListView.ItemsSource = new List<TipsVideoModel>{
-                new TipsVideoModel {Description= "Selector Tips and Tricks to make you more money!", PictureSource = "scan.png"},
+                new TipsVideoModel {Description= "Selector Tips and Tricks", PictureSource = "scan.png"},
                
 
             };
