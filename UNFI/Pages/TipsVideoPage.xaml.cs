@@ -14,7 +14,7 @@ namespace UNFI.Pages
                 new TipsVideoModel {Description= "Selector Tips and Tricks", PictureSource = "scan.png"},
                 new TipsVideoModel {Description= "Product Guide Training", PictureSource = "store.png"},
                 new TipsVideoModel {Description= "Scanner Best Practices", PictureSource = "scanner.png"},
-
+                new TipsVideoModel {Description= "How to stay SAFE at work!", PictureSource = "safety.png"},
             };
         }
     }
