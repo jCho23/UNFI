@@ -109,6 +109,8 @@ class MonoPackageManager_Resources {
 		"FormsViewGroup.dll",
 		"ImageCircle.Forms.Plugin.Abstractions.dll",
 		"ImageCircle.Forms.Plugin.Android.dll",
+		"Plugin.MediaManager.Abstractions.dll",
+		"Plugin.MediaManager.dll",
 		"UNFI.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Annotations.dll",

@@ -25,3 +25,5 @@ ImageCircle.Forms.Plugin.Abstractions
 ImageCircle.Forms.Plugin.Android
 XFGloss
 XFGloss.Droid
+Plugin.MediaManager.Abstractions
+Plugin.MediaManager
