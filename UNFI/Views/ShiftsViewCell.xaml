@@ -7,6 +7,16 @@
 
     <ViewCell.View>
         <Frame
+            Margin="7,3,7,3"
+            HeightRequest="200">
+
+            </Frame>
+            <Label
+                Text="Teest"
+                TextColor="Fuchsia"/>
+
+            
+        <Frame
             Margin="7,3,7,3">
                 
                          
