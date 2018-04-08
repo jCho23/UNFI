@@ -21,7 +21,7 @@
 
             <ListView.RowHeight>
                     <OnPlatform x:TypeArguments="x:Int32">
-                        <On Platform="iOS, Android" Value="190"/>
+                        <On Platform="iOS, Android" Value="195"/>
                     </OnPlatform>
             </ListView.RowHeight>
             
@@ -52,7 +52,7 @@
                                                 Grid.Column="0"
                                                 FontSize="20"
                                                 Text="{Binding Description}"
-                                                TextColor="Fuchsia"/>
+                                                TextColor="White"/>
                                 </Grid>
                         </StackLayout>
                     </ViewCell>
