@@ -65,7 +65,7 @@
                             BorderColor="White"
                             HorizontalOptions="Center"
                             VerticalOptions="Center"
-                            Source="theRock.jpg"
+                            Source="{Binding PictureTwoUrl}"
                             BorderThickness="1"
                             />
                           <!--     <Label

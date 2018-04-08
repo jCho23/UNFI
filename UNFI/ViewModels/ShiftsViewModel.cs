@@ -20,8 +20,9 @@ namespace UNFI.ViewModels
             {
                 new PostMessageModel
                 {
-                    PostText = "@here --Car won't start, can someone give me a ride to work for second shift?",
+                    PostText = "My son is sick and I need to take care of him today. Anyone wanna switch second shift or first?",
                     Replies = "Replies: 23",
+                    PictureTwoUrl = "theRock.jpg",
                     PostUser= new UserProfileModel
                     {
                         Name = "Sarah Jenner",
@@ -48,36 +49,8 @@ namespace UNFI.ViewModels
                         PictureUrl = "http://www.profightdb.com/img/wrestlers/thumbs-600/6baee11272the-rock.jpg",
                     }
                 },
-                new PostMessageModel
-                {
-                    PostText = "@Jo thank you so much for bringing in your famous homemade cookies, they were delicious!",
-                    Replies = "Replies: 16",
-                    PostUser= new UserProfileModel
-                    {
-                        Name = "Kylie Jenner",
-                        PictureUrl = "https://cdn.inquisitr.com/wp-content/uploads/2016/04/kylie-jenner-paper-photoshoot.png",
-                    }
-                },
-                new PostMessageModel
-                {
-                    PostText = "PSA: Super icy roads today, be careful coming into work. Highly recommend snow tires.",
-                    Replies = "Replies: 32",
-                    PostUser= new UserProfileModel
-                    {
-                        Name = "Kevin Hart",
-                        PictureUrl = "https://healthyceleb.com/wp-content/uploads/2016/07/Kevin-Hart-headshot.jpg",
-                    }
-                },
-                new PostMessageModel
-                {
-                    PostText = "Second Shift Selectors rocked last night! We set a new record for loading the most trucks in a day!",
-                    Replies = "Replies: 8",
-                    PostUser= new UserProfileModel
-                    {
-                        Name = "Michael Jordan",
-                        PictureUrl = "https://i.ytimg.com/vi/RnSgCv2X0ns/hqdefault.jpg",
-                    }
-                }
+
+               
             };
 
           

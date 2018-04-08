@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Views/FeedViewCell.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/ViewModels/ShiftsViewModel.cs">
     <Files>
-      <File FileName="UNFI/ViewModels/ShiftsViewModel.cs" Line="8" Column="1" />
+      <File FileName="UNFI/ViewModels/ShiftsViewModel.cs" Line="62" Column="16" />
       <File FileName="UNFI/Views/MyPostsViewCell.xaml" Line="21" Column="1" />
-      <File FileName="UNFI/Views/ShiftsViewCell.xaml" Line="35" Column="48" />
+      <File FileName="UNFI/Views/ShiftsViewCell.xaml" Line="68" Column="60" />
       <File FileName="UNFI/ViewModels/MyPostsViewModel.cs" Line="26" Column="19" />
-      <File FileName="UNFI/Views/FeedViewCell.xaml" Line="66" Column="1" />
-      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="UNFI/Models/PostMessageModel.cs" Line="15" Column="50" />
+      <File FileName="UNFI/Views/ShiftsViewCell.xaml.cs" Line="22" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" automaticSigning="False" />

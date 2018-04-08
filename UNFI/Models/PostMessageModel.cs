@@ -12,5 +12,6 @@ namespace UNFI.Models
         public string Replies { get; set; }
 
         public string Location { get; set; }
+        public string PictureTwoUrl { get; set; }
     }
 }
