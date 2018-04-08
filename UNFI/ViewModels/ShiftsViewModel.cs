@@ -22,8 +22,11 @@ namespace UNFI.ViewModels
                 {
                     PostText = "Mon, April 9 2018 : Shift 1",
                     Replies = "Replies: 23",
+                    Request= "The Rock wants to cover Jason's shift ",
+                    Status= "Pending Manager's Approval",
                     PictureTwoUrl = "theRock.jpg",
                     PostUser= new UserProfileModel
+                       
                     {
                         Name = "Sarah Jenner",
                         PictureUrl = "https://lion.blob.core.windows.net/pic1/pic1.jpeg"

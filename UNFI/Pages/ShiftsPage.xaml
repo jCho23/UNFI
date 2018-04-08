@@ -22,7 +22,7 @@
                 SeparatorColor="Transparent">
                 <ListView.RowHeight>
                     <OnPlatform x:TypeArguments="x:Int32">
-                        <On Platform="iOS, Android" Value="200"/>
+                        <On Platform="iOS, Android" Value="240"/>
                     </OnPlatform>
                 </ListView.RowHeight>
                         <ListView.ItemTemplate>

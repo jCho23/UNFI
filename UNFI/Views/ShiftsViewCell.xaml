@@ -25,6 +25,7 @@
                                 <RowDefinition Height="20"/>
                                 <RowDefinition Height="20"/>
                                 <RowDefinition Height="40"/>
+                                <RowDefinition Height="60"/>
                             </Grid.RowDefinitions>
                             
                             <Grid.ColumnDefinitions>
@@ -55,23 +56,32 @@
                                     Text="{Binding PostText}"/>
 
                                 <Label
-                                    Margin="20,20,0,0"
-                                    Text="Test"
+                                    Margin="28,20,0,0"
+                                    Text="{Binding Request}"
+
                                     Grid.Row="3" Grid.ColumnSpan="3"
-                                    TextColor="Fuchsia"/>
+                                    TextColor="Black"/>
+
+                                <Label
+                                    Margin="28,0,0,0"
+                                    Text="{Binding Status}"
+                                    FontSize="14"
+                                    FontAttributes="Italic"
+                                    Grid.Row="4" Grid.ColumnSpan="3"
+                                    TextColor="White"/>
 
 
                              <ic:CircleImage
                             Margin="0,20,0,0"
                           Grid.ColumnSpan="3"
                            Grid.Row="3"
-                            WidthRequest="40"
-                            HeightRequest="40"
+                            WidthRequest="20"
+                            HeightRequest="20"
                             Aspect="AspectFill"
-                            BorderColor="White"
+                            BorderColor="Black"
                             HorizontalOptions="Start"
                             VerticalOptions="Start"
-                            Source="light.png"
+                            Source="mark.png"
                             BorderThickness="1"
                             />
                             
