@@ -20,7 +20,7 @@ namespace UNFI.ViewModels
             {
                 new PostMessageModel
                 {
-                    PostText = "My son is sick and I need to take care of him today. Anyone wanna switch second shift or first?",
+                    PostText = "Mon, April 9 2018 : Shift 1",
                     Replies = "Replies: 23",
                     PictureTwoUrl = "theRock.jpg",
                     PostUser= new UserProfileModel

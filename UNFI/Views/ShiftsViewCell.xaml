@@ -31,9 +31,11 @@
                                 <Label
                                     Grid.Row="1" Grid.ColumnSpan="3"
                                     Text="Selector"
+                                    FontFamily="BebasNeue-Regular"
                                     HorizontalOptions="Center"
+                                    
                                     VerticalOptions="Center"
-                                    TextColor="Fuchsia"/>
+                                    TextColor="Silver"/>
             
                                 <Label
                                     
@@ -41,7 +43,10 @@
                                     Grid.Row="2" Grid.ColumnSpan="3"
                                     FontSize="16" 
                                     Margin="5,2,0,0"
-                                    TextColor="Fuchsia"
+                                    TextColor="White"
+                                    FontAttributes="Bold"
+                                    HorizontalOptions="Center"
+                                    VerticalOptions="Center"
                                     Text="{Binding PostText}"/>
 
                                 <Label
