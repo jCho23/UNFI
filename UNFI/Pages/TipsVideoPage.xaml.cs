@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using UNFI.Models;
+
 using Xamarin.Forms;
+
+using UNFI.Models;
 
 namespace UNFI.Pages
 {
