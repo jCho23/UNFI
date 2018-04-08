@@ -143,6 +143,7 @@
       <DependentUpon>TipsVideoPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Constants\MediaConstants.cs" />
+    <Compile Include="Models\ShiftsModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="ImageCircle.Forms.Plugin.Abstractions">
