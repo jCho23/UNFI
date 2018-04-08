@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.ObjectModel;
+
 using UNFI.Models;
 
 namespace UNFI.ViewModels
@@ -9,7 +10,6 @@ namespace UNFI.ViewModels
         string numberOfReplies;
 
         ObservableCollection<PostMessageModel> myPostsListViewItemSource;
-
 
         public MyPostsViewModel()
         {
@@ -75,7 +75,6 @@ namespace UNFI.ViewModels
                     }
                 }
             };
-
         }
 
         public string NumberOfReplies
