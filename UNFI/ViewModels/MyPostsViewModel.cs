@@ -47,8 +47,8 @@ namespace UNFI.ViewModels
 
                 new PostMessageModel()
                 {
-                    PostText = "And the only way to do great work is to love what you do. ",
-                    NumberOfReplies =23,
+                    PostText = "@Mike that BBQ you made last Friday was AWESOME!! Can't wait for the next one!",
+                    Replies ="Replies: 28",
                     PostUser= new UserProfileModel
                     {
                         PictureUrl="http://www.profightdb.com/img/wrestlers/thumbs-600/6baee11272the-rock.jpg"
