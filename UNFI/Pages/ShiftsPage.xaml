@@ -4,13 +4,9 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
     x:Class="UNFI.Pages.ShiftsPage">
 
-
-
-
-  
     <StackLayout>
             <ListView
-                x:Name= "listViewFeed"
+                x:Name= "shiftsViewFeed"
                 IsPullToRefreshEnabled="true"
                 ItemSelected="Handle_ItemSelected"
                 RefreshCommand="{Binding RefreshCommand}"
@@ -30,6 +26,4 @@
                 </ListView>
         </StackLayout>
     
-
-
 </ContentPage>  
