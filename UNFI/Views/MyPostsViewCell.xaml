@@ -18,8 +18,24 @@
                             HeightRequest="75"
                             Aspect="AspectFill"
                             BorderColor="White"
+                            HorizontalOptions="Center"
+                            VerticalOptions="Center"
                             BorderThickness="1"
                             />
+
+                             <ic:CircleImage
+                          
+                           
+                            WidthRequest="40"
+                            HeightRequest="40"
+                            Aspect="AspectFill"
+                            BorderColor="White"
+                            HorizontalOptions="Center"
+                            VerticalOptions="Center"
+                            Source="theRock.jpg"
+                            BorderThickness="1"
+                            />
+                
                         <Grid>
                             <Grid.RowDefinitions>
                                 <RowDefinition Height="60"/>

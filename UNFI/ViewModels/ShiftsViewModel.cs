@@ -11,7 +11,7 @@ namespace UNFI.ViewModels
         string postUserProfileUrl, postUserPostText, postUserName, numberOfReplies;
 
         List<PostMessageModel> originalMessages = new List<PostMessageModel>();
-        ObservableCollection<PostMessageModel> feedListViewItemSource = new ObservableCollection<PostMessageModel>();
+        ObservableCollection<PostMessageModel> shiftsListViewItemSource = new ObservableCollection<PostMessageModel>();
 
         public ShiftsViewModel()
         {
@@ -115,8 +115,8 @@ namespace UNFI.ViewModels
 
         public ObservableCollection<PostMessageModel> ItemsCurrentlyDisplayedInList
         {
-            get => feedListViewItemSource;
-            set => SetProperty(ref feedListViewItemSource, value);
+            get => shiftsListViewItemSource;
+            set => SetProperty(ref shiftsListViewItemSource, value);
         }
     }
 }
