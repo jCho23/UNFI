@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using UNFI.Models;
+
 using Xamarin.Forms;
+
+using UNFI.Models;
+using UNFI.ViewModels;
 
 namespace UNFI.Pages
 {
@@ -9,9 +12,10 @@ namespace UNFI.Pages
     {
         public ShiftsPage()
         {
+            var shiftsPageViewModel = new ShiftsViewModel();
+            this.BindingContext = shiftsPageViewModel;
+
             InitializeComponent();
-            {
-            };
         }
     }
 }
