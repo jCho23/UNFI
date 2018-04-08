@@ -144,6 +144,7 @@
     </Compile>
     <Compile Include="Constants\MediaConstants.cs" />
     <Compile Include="Models\ShiftsModel.cs" />
+    <Compile Include="Models\TipsVideoModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="ImageCircle.Forms.Plugin.Abstractions">
