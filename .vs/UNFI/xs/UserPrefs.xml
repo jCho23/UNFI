@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{A96B967C-72E0-4FF7-844C-4874F9E8009B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/LeaderBoardPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Pages/ShiftsPage.xaml.cs">
     <Files>
       <File FileName="UNFI/Pages/EventsPage.xaml" Line="44" Column="15" />
-      <File FileName="UNFI/Pages/LeaderBoardPage.xaml.cs" Line="16" Column="84" />
+      <File FileName="UNFI/Pages/LeaderBoardPage.xaml.cs" Line="20" Column="88" />
+      <File FileName="UNFI/ViewModels/EventsViewModel.cs" Line="1" Column="1" />
+      <File FileName="UNFI/Pages/ShiftsPage.xaml" Line="36" Column="17" />
+      <File FileName="UNFI/Pages/ShiftsPage.xaml.cs" Line="21" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" automaticSigning="False" />
