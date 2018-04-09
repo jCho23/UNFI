@@ -21,23 +21,40 @@ namespace UNFI.ViewModels
                 new PostMessageModel
                 {
                     PostText = "Mon, April 9 2018 : Shift 1",
-
-                    Request= "The Rock wants to cover Jason's shift ",
-                    Status= "Pending Manager's Approval",
-                    PictureTwoUrl = "https://cdn.inquisitr.com/wp-content/uploads/2016/04/kylie-jenner-paper-photoshoot.pn",
+                    Icon = "question.png",
+                    Request= "Kylie",
+                    Status= "Son got super sick on Friday, can anyone take my shift?",
+                    SwitchUrl= "https://cdn.inquisitr.com/wp-content/uploads/2016/04/kylie-jenner-paper-photoshoot.png",
+                   
                     PostUser= new UserProfileModel
-                       
+
                     {
                         Name = "The Rock",
-                        PictureUrl = "theRock.jpb"
+
                     }
                 },
                 new PostMessageModel
                 {
                     PostText = "Mon, April 9 2018 : Shift 1",
-                    Request= "Thanks The Rock for covering Jason's shift!",
+
+                    Request= "The Rock wants to cover Kylie's shift ",
+                    Status= "Pending Manager's Approval",
+                    Icon= "mark.png",
+                    PictureTwoUrl = "https://cdn.inquisitr.com/wp-content/uploads/2016/04/kylie-jenner-paper-photoshoot.png",
+                    PostUser= new UserProfileModel
+                       
+                    {
+                        Name = "The Rock",
+                        PictureUrl = "theRock.jpg"
+                    }
+                },
+                new PostMessageModel
+                {
+                    PostText = "Mon, April 9 2018 : Shift 1",
+                    Request= "Thanks The Rock for covering!",
                     Status= "Manager Approved",
-                    PictureTwoUrl = "https://cdn.inquisitr.com/wp-content/uploads/2016/04/kylie-jenner-paper-photoshoot.pn",
+                    Icon= "confirmed.png",
+                    PictureTwoUrl = "https://cdn.inquisitr.com/wp-content/uploads/2016/04/kylie-jenner-paper-photoshoot.png",
                     PostUser= new UserProfileModel
                     {
                         Name = "The Rock",

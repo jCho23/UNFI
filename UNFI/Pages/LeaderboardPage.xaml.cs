@@ -14,10 +14,10 @@ namespace UNFI.Pages
             InitializeComponent();
             leaderBoardListView.ItemsSource = new List<LeaderBoardModel>{
                 new LeaderBoardModel {Rank = "1", Points= "230", TeamName = "Jordan", PictureUrl = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Air-Jordan-Logo-wallpapers-620x465.jpg"},
-                new LeaderBoardModel {Rank = "2", Points= "200", TeamName = "Jordan", PictureUrl = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Air-Jordan-Logo-wallpapers-620x465.jpg"},
-                new LeaderBoardModel {Rank = "3", Points= "230", TeamName = "Jordan", PictureUrl = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Air-Jordan-Logo-wallpapers-620x465.jpg"},
-                new LeaderBoardModel {Rank = "4", Points= "230", TeamName = "Jordan", PictureUrl = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Air-Jordan-Logo-wallpapers-620x465.jpg"},
-                new LeaderBoardModel {Rank = "5", Points= "230", TeamName = "Jordan", PictureUrl = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Air-Jordan-Logo-wallpapers-620x465.jpg"},
+                new LeaderBoardModel {Rank = "2", Points= "200", TeamName = "Kale", PictureUrl = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Air-Jordan-Logo-wallpapers-620x465.jpg"},
+                new LeaderBoardModel {Rank = "3", Points= "230", TeamName = "Papaya", PictureUrl = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Air-Jordan-Logo-wallpapers-620x465.jpg"},
+                new LeaderBoardModel {Rank = "4", Points= "230", TeamName = "Mango", PictureUrl = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Air-Jordan-Logo-wallpapers-620x465.jpg"},
+                new LeaderBoardModel {Rank = "5", Points= "230", TeamName = "Watermelon", PictureUrl = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Air-Jordan-Logo-wallpapers-620x465.jpg"},
                 new LeaderBoardModel {Rank = "6", Points= "230", TeamName = "Jordan", PictureUrl = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Air-Jordan-Logo-wallpapers-620x465.jpg"},
                 new LeaderBoardModel {Rank = "7", Points= "230", TeamName = "Jordan", PictureUrl = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Air-Jordan-Logo-wallpapers-620x465.jpg"},
                 new LeaderBoardModel {Rank = "8", Points= "230", TeamName = "Jordan", PictureUrl = "https://www.pixelstalk.net/wp-content/uploads/2015/12/Air-Jordan-Logo-wallpapers-620x465.jpg"},
