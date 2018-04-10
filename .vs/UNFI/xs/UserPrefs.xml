@@ -7,7 +7,7 @@
       <File FileName="UNFI/Pages/ShiftsPage.xaml" Line="36" Column="17" />
       <File FileName="UNFI/Pages/ShiftsPage.xaml.cs" Line="21" Column="2" />
       <File FileName="UNFI/ViewModels/BaseViewModel.cs" Line="1" Column="1" />
-      <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="109" Column="15" />
+      <File FileName="UNFI/Pages/FeedDetailsPage.xaml" Line="25" Column="41" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
