@@ -10,7 +10,6 @@ namespace UNFI.ViewModels
 
         ObservableCollection<PostMessageModel> myPostsListViewItemSource;
 
-
         public EventsViewModel()
         {
             myPostsListViewItemSource = new ObservableCollection<PostMessageModel>
