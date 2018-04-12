@@ -5,21 +5,10 @@
     xmlns:ic="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
     x:Class="UNFI.Views.ShiftsViewCell">
 
-
-
-
-
-    
     <ViewCell.View>
-
-
-            
         <Frame
             Margin="7,3,7,3"
             OutlineColor="White">
-                
-                         
-                         
                         <Grid>
                             <Grid.RowDefinitions>
                                 <RowDefinition Height="60"/>
