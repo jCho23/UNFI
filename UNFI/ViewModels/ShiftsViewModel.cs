@@ -61,17 +61,8 @@ namespace UNFI.ViewModels
                         PictureUrl = "theRock.jpg",
                     }
                 },
-
-
-               
             };
-
-          
-
         }
-
-
-      
 
         public string PostUserName
         {
@@ -106,4 +97,3 @@ namespace UNFI.ViewModels
         }
     }
 }
-
