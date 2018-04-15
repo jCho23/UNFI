@@ -37,3 +37,4 @@
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.Views.ShiftsViewCell.xaml.g.cs
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.dll
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.pdb
+/Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.csprojResolveAssemblyReference.cache
