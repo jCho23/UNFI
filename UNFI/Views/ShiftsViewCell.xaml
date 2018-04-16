@@ -54,38 +54,35 @@
                                     Grid.Row="4" Grid.ColumnSpan="3"
                                     TextColor="White"/>
 
+                                <ic:CircleImage
+                                Margin="0,20,0,0"
+                                Grid.Column="0"
+                                Grid.Row="3"
+                                WidthRequest="40"
+                                HeightRequest="40"
+                                Aspect="AspectFill"
+                                BorderColor="Black"
+                                HorizontalOptions="Start"
+                                VerticalOptions="Start"
+                                Source="{Binding Icon}"
+                                BorderThickness="2"
+                                />
+                                <ic:CircleImage
+                                Grid.Row="0"
+                                Grid.ColumnSpan="3"
+                                x:Name = "UserProfilePicture"
+                                Margin="0,0,80,0"
+                                WidthRequest="60"
+                                HeightRequest="60"
+                                Aspect="AspectFill"
+                                BorderColor="Transparent"
+                                HorizontalOptions="Center"
+                                VerticalOptions="Center"
+                                BorderThickness="1"
+                                />
 
                             <ic:CircleImage
-                            Margin="0,20,0,0"
-                            Grid.Column="0"
-                            Grid.Row="3"
-                            WidthRequest="40"
-                            HeightRequest="40"
-                            Aspect="AspectFill"
-                            BorderColor="Black"
-                            HorizontalOptions="Start"
-                            VerticalOptions="Start"
-                            Source="{Binding Icon}"
-                            BorderThickness="2"
-                            />
-                            
-                    
-                              <ic:CircleImage
-                        Grid.Row="0"
-                            Grid.ColumnSpan="3"
-                            x:Name = "UserProfilePicture"
-                            Margin="0,0,80,0"
-                            WidthRequest="60"
-                            HeightRequest="60"
-                            Aspect="AspectFill"
-                            BorderColor="Transparent"
-                            HorizontalOptions="Center"
-                            VerticalOptions="Center"
-                            BorderThickness="1"
-                            />
-
-                            <ic:CircleImage
-                        Grid.Row="0"
+                            Grid.Row="0"
                             Grid.ColumnSpan="3"
                             Margin="0,0,0,0"
                             WidthRequest="60"
