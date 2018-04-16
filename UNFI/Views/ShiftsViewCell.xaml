@@ -53,20 +53,18 @@
                                     FontAttributes="Italic"
                                     Grid.Row="4" Grid.ColumnSpan="3"
                                     TextColor="White"/>
-
                                 <ic:CircleImage
-                                Margin="0,20,0,0"
-                                Grid.Column="0"
-                                Grid.Row="3"
-                                WidthRequest="40"
-                                HeightRequest="40"
-                                Aspect="AspectFill"
-                                BorderColor="Black"
-                                HorizontalOptions="Start"
-                                VerticalOptions="Start"
-                                Source="{Binding Icon}"
-                                BorderThickness="2"
-                                />
+                                    Margin="0,20,0,0"
+                                    Grid.Column="0"
+                                    Grid.Row="3"
+                                    WidthRequest="40"
+                                    HeightRequest="40"
+                                    Aspect="AspectFill"
+                                    BorderColor="Black"
+                                    HorizontalOptions="Start"
+                                    VerticalOptions="Start"
+                                    Source="{Binding Icon}"
+                                    BorderThickness="2" />
                                 <ic:CircleImage
                                 Grid.Row="0"
                                 Grid.ColumnSpan="3"
