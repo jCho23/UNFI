@@ -80,34 +80,32 @@
                                 VerticalOptions="Center"
                                 BorderThickness="1"
                                 />
-
-                            <ic:CircleImage
-                            Grid.Row="0"
-                            Grid.ColumnSpan="3"
-                            Margin="0,0,0,0"
-                            WidthRequest="60"
-                            HeightRequest="60"
-                            Aspect="AspectFill"
-                            BorderColor="Transparent"
-                            HorizontalOptions="Center"
-                            VerticalOptions="Center"
-                            BorderThickness="1"
-                            Source="{Binding SwitchUrl}"
-                            />
-
-                             <ic:CircleImage
-                            Margin="80,0,0,0"
-                          Grid.ColumnSpan="3"
-                           Grid.Row="0"
-                            WidthRequest="60"
-                            HeightRequest="60"
-                            Aspect="AspectFill"
-                            BorderColor="Transparent"
-                            HorizontalOptions="Center"
-                            VerticalOptions="Center"
-                            Source="{Binding PictureTwoUrl}"
-                            BorderThickness="1"
-                            />
+                                <ic:CircleImage
+                                Grid.Row="0"
+                                Grid.ColumnSpan="3"
+                                Margin="0,0,0,0"
+                                WidthRequest="60"
+                                HeightRequest="60"
+                                Aspect="AspectFill"
+                                BorderColor="Transparent"
+                                HorizontalOptions="Center"
+                                VerticalOptions="Center"
+                                BorderThickness="1"
+                                Source="{Binding SwitchUrl}"
+                                />
+                                <ic:CircleImage
+                                Margin="80,0,0,0"
+                                Grid.ColumnSpan="3"
+                                Grid.Row="0"
+                                WidthRequest="60"
+                                HeightRequest="60"
+                                Aspect="AspectFill"
+                                BorderColor="Transparent"
+                                HorizontalOptions="Center"
+                                VerticalOptions="Center"
+                                Source="{Binding PictureTwoUrl}"
+                                BorderThickness="1"
+                                />
                           <!--     <Label
                                     x:Name="PostNumberOfRepliesLabel"
                                     Grid.Row="1" Grid.Column="2"
