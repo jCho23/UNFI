@@ -21,7 +21,7 @@
       <File FileName="UNFI/Pages/ProfilePage.xaml.cs" Line="1" Column="1" />
       <File FileName="UNFI/Pages/MyPostsPage.xaml.cs" Line="1" Column="1" />
       <File FileName="UNFI/Pages/TipsVideoPage.xaml" Line="63" Column="15" />
-      <File FileName="UNFI/Views/ShiftsViewCell.xaml" Line="155" Column="12" />
+      <File FileName="UNFI/Views/ShiftsViewCell.xaml" Line="104" Column="42" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C4E177B6-03E3-4A33-A3AE-12C6698EC97C" automaticSigning="False" />
