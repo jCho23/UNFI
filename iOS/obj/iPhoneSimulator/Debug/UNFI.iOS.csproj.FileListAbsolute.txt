@@ -78,11 +78,6 @@
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/BBQ.png
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/location.png
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/trophy.png
-/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/
-/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.csprojResolveAssemblyReference.cache
-/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.csproj.CoreCompileInputs.cache
-/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.exe
-/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.pdb
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/scan.png
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/store.png
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/scanner.png
@@ -90,3 +85,8 @@
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/mark.png
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/confirmed.png
 /Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/question.png
+/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/
+/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.csprojResolveAssemblyReference.cache
+/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.csproj.CoreCompileInputs.cache
+/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.exe
+/Users/june/Projects/UNFI/iOS/obj/iPhoneSimulator/Debug/UNFI.iOS.pdb

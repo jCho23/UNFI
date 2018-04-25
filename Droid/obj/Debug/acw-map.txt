@@ -1,3 +1,7 @@
+UNFI.Droid.MainActivity, UNFI.Droid;md5ba5702c453752311017b7a61a3fe05bb.MainActivity
+UNFI.Droid.MainActivity, UNFI.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ba5702c453752311017b7a61a3fe05bb.MainActivity
+UNFI.Droid.MainActivity;md5ba5702c453752311017b7a61a3fe05bb.MainActivity
+unfi.droid.MainActivity;md5ba5702c453752311017b7a61a3fe05bb.MainActivity
 ImageCircle.Forms.Plugin.Droid.ImageCircleRenderer, ImageCircle.Forms.Plugin.Android;md5979977b59766b06d26cb3e819c6ba31c.ImageCircleRenderer
 ImageCircle.Forms.Plugin.Droid.ImageCircleRenderer, ImageCircle.Forms.Plugin.Android, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null;md5979977b59766b06d26cb3e819c6ba31c.ImageCircleRenderer
 ImageCircle.Forms.Plugin.Droid.ImageCircleRenderer;md5979977b59766b06d26cb3e819c6ba31c.ImageCircleRenderer
