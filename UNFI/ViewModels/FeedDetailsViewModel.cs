@@ -129,6 +129,5 @@ namespace UNFI.ViewModels
             get => feedDetailsListViewItemSource;
             set => SetProperty(ref feedDetailsListViewItemSource, value);
         }
-
     }
 }
