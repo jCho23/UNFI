@@ -18,6 +18,7 @@
 /Users/june/Projects/UNFI/UNFI/bin/Debug/Xamarin.Forms.Xaml.pdb
 /Users/june/Projects/UNFI/UNFI/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/june/Projects/UNFI/UNFI/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.csprojResolveAssemblyReference.cache
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.csproj.CoreCompileInputs.cache
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.App.xaml.g.cs
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.Pages.FeedPage.xaml.g.cs
@@ -37,4 +38,3 @@
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.Views.ShiftsViewCell.xaml.g.cs
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.dll
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.pdb
-/Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.csprojResolveAssemblyReference.cache
