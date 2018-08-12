@@ -7,6 +7,13 @@
       <File FileName="UNFI/Pages/FeedDetailsPage.xaml.cs" Line="26" Column="10" />
       <File FileName="UNFI/ViewModels/FeedDetailsViewModel.cs" Line="125" Column="10" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UNFI" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A784BB4F-4D46-4EE0-BFAE-31352706D080" automaticSigning="False" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
