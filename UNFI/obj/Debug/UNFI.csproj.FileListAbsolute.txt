@@ -38,3 +38,4 @@
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.csproj.CopyComplete
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.dll
 /Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.pdb
+/Users/june/Projects/UNFI/UNFI/obj/Debug/UNFI.csprojAssemblyReference.cache
