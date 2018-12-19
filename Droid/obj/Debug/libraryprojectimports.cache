@@ -14,34 +14,34 @@
     <Jar>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/19/jl/bin/classes.jar</Jar>
     <Jar>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/20/jl/bin/classes.jar</Jar>
     <Jar>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/21/jl/bin/classes.jar</Jar>
-    <Jar>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/22/jl/bin/classes.jar</Jar>
-    <Jar>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/7/jl/bin/classes.jar</Jar>
-    <Jar>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/8/jl/support-annotations.jar</Jar>
+    <Jar>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/6/jl/bin/classes.jar</Jar>
+    <Jar>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/7/jl/support-annotations.jar</Jar>
+    <Jar>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/8/jl/bin/classes.jar</Jar>
     <Jar>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/9/jl/bin/classes.jar</Jar>
   </Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/12/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/11/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/14/jl/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/15/jl/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/16/jl/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/17/jl/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/18/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/19/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/21/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/28/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/20/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/27/jl/res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>obj/Debug/lp/16/jl/assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj/Debug/lp/28/jl/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/lp/15/jl/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/lp/27/jl/assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/12.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/11.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/14.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/15.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/16.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/17.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/18.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/19.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/21.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/28.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/20.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/june/Projects/UNFI/Droid/obj/Debug/lp/27.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

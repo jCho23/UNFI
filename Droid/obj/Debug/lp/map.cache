@@ -4,7 +4,6 @@ ImageCircle.Forms.Plugin.Android
 Plugin.MediaManager.Abstractions
 Plugin.MediaManager
 System.Runtime
-UNFI
 Xamarin.Android.Support.Animated.Vector.Drawable
 Xamarin.Android.Support.Annotations
 Xamarin.Android.Support.Compat
@@ -27,4 +26,5 @@ Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
 XFGloss
 XFGloss.Droid
+UNFI
 System.Diagnostics.Tools
