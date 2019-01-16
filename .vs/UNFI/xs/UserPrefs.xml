@@ -6,7 +6,7 @@
       <File FileName="UNFI/Models/LeaderBoardModel.cs" Line="1" Column="1" />
       <File FileName="UNFI/Pages/EventsPage.xaml.cs" Line="1" Column="1" />
       <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="UNFI/Pages/FeedPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="UNFI/Pages/FeedPage.xaml.cs" Line="9" Column="48" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A784BB4F-4D46-4EE0-BFAE-31352706D080" />
