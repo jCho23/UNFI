@@ -11,9 +11,12 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="UNFI" expanded="True" selected="True">
+          <Node name="UNFI" expanded="True">
             <Node name="UNFI" expanded="True">
-              <Node name="Constants" expanded="True" />
+              <Node name="References" expanded="True" />
+              <Node name="Constants" expanded="True">
+                <Node name="MediaConstants.cs" selected="True" />
+              </Node>
               <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="FeedPage.xaml" expanded="True" />
