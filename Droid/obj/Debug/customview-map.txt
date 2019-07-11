@@ -1,0 +1,7 @@
+android.support.design.widget.TabLayout;obj/Debug/res/layout/tabbar.xml
+android.support.v7.widget.Toolbar;obj/Debug/res/layout/toolbar.xml
+item;obj/Debug/res/values/styles.xml
+resources;/Users/june/Projects/UNFI/Droid/obj/Debug/lp/28/jl/res/values/strings.xml
+resources;obj/Debug/res/values/styles.xml
+string;/Users/june/Projects/UNFI/Droid/obj/Debug/lp/28/jl/res/values/strings.xml
+style;obj/Debug/res/values/styles.xml
