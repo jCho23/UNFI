@@ -2,8 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.UNFI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6DDE33E7-39A3-4AF2-9E80-1DC5FAFFDA55" />
   <MonoDevelop.Ide.Workbench ActiveDocument="UNFI/Constants/MediaConstants.cs">
     <Files>
-      <File FileName="UNFI/Constants/MediaConstants.cs" Line="1" Column="1" />
-      <File FileName="UNFI/Pages/EventsPage.xaml" />
+      <File FileName="UNFI/Constants/MediaConstants.cs" Line="15" Column="1" />
       <File FileName="UNFI/Pages/EventsPage.xaml.cs" />
       <File FileName="UNFI/Pages/FeedAddPostModalPage.xaml.cs" />
       <File FileName="UNFI/Pages/FeedPage.xaml.cs" />
@@ -11,22 +10,11 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="UNFI" expanded="True" selected="True">
-            <Node name="UNFI" expanded="True">
-              <Node name="References" expanded="True" />
-              <Node name="Constants" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="FeedPage.xaml" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="UNFI.iOS" expanded="True" />
-          </Node>
+          <Node name="UNFI" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.UNFI.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

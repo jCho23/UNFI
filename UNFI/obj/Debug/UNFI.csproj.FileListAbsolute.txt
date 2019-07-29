@@ -58,6 +58,7 @@
 /Users/junecho/Documents/GitHub/UNFI/UNFI/bin/Debug/Xamarin.Forms.Xaml.pdb
 /Users/junecho/Documents/GitHub/UNFI/UNFI/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/junecho/Documents/GitHub/UNFI/UNFI/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/junecho/Documents/GitHub/UNFI/UNFI/obj/Debug/UNFI.csprojAssemblyReference.cache
 /Users/junecho/Documents/GitHub/UNFI/UNFI/obj/Debug/UNFI.csproj.CoreCompileInputs.cache
 /Users/junecho/Documents/GitHub/UNFI/UNFI/obj/Debug/UNFI.App.xaml.g.cs
 /Users/junecho/Documents/GitHub/UNFI/UNFI/obj/Debug/UNFI.Pages.FeedPage.xaml.g.cs
