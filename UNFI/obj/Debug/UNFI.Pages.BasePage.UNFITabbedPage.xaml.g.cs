@@ -11,7 +11,7 @@
 namespace UNFI.Pages.BasePage {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/junecho/Documents/GitHub/UNFI/UNFI/Pages/BasePage/UNFITabbedPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/junecho/Documents/Github/UNFI/UNFI/Pages/BasePage/UNFITabbedPage.xaml")]
     public partial class UNFITabbedPage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

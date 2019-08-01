@@ -11,7 +11,7 @@
 namespace UNFI {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/junecho/Documents/GitHub/UNFI/UNFI/App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/junecho/Documents/Github/UNFI/UNFI/App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

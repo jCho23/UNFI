@@ -11,7 +11,7 @@
 namespace UNFI.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/junecho/Documents/GitHub/UNFI/UNFI/Views/ShiftsViewCell.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/junecho/Documents/Github/UNFI/UNFI/Views/ShiftsViewCell.xaml")]
     public partial class ShiftsViewCell : global::Xamarin.Forms.ViewCell {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

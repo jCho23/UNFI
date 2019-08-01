@@ -11,7 +11,7 @@
 namespace UNFI.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/junecho/Documents/GitHub/UNFI/UNFI/Views/FeedViewCell.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/junecho/Documents/Github/UNFI/UNFI/Views/FeedViewCell.xaml")]
     public partial class FeedViewCell : global::Xamarin.Forms.ViewCell {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
